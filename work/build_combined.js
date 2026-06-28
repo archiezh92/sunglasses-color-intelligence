@@ -207,8 +207,8 @@ function buildData() {
 
   gm.products.forEach((p, i) => {
     const key = `gentlemonster:${slug(p.name)}:${i}`;
-    const lensName = p.color || p.name;
-    const cal = calibrateColor(lensName);
+    const lensName = p.cat === 'gradient' ? 'Gradient lens' : (p.cat === 'tint' ? 'Tint lens' : 'Sun lens');
+    const cal = { hue: 'unknown', hex: '', source: 'gm-source-lacks-lens-hue' };
     addClassifier({ key, brand: SOURCES.gentlemonster.label, name: `${p.name} / ${lensName}`, lensName, cat: p.cat, hue: cal.hue, img: p.img, hex: cal.hex, hueSource: cal.source });
     records.push({
       id: key,
@@ -225,7 +225,7 @@ function buildData() {
       cat: p.cat,
       img: p.img,
       price: p.price ? `$${p.price}` : '',
-      sourceNote: p.bestseller ? `BEST #${p.bestseller}` : '',
+      sourceNote: p.bestseller ? `BEST #${p.bestseller} · GM source has frame color only` : 'GM source has frame color only',
       weight: productWeight(p.rank),
     });
   });
@@ -321,7 +321,7 @@ function buildData() {
   const classifierList = [...classifiers.values()].map(x => ({
     ...x,
     ...(() => {
-      if (x.hue && x.hex && x.hueSource) return { hue: x.hue, hex: x.hex, hueSource: x.hueSource };
+      if (x.hue && x.hueSource) return { hue: x.hue, hex: x.hex || '', hueSource: x.hueSource };
       const cal = calibrateColor(x.lensName || x.name, x.hex);
       return { hue: cal.hue, hex: cal.hex, hueSource: cal.source };
     })(),

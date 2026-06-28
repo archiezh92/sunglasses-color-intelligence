@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T02:42:23.377Z",
+  "generatedAt": "2026-06-28T13:31:53.967Z",
   "totals": {
     "records": 2706,
     "classifiers": 281,
@@ -14,16 +14,14 @@
     {
       "hue": "black",
       "label": "Black",
-      "count": 93,
-      "brandCount": 3,
+      "count": 56,
+      "brandCount": 2,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 78,
-        "tint": 15
+        "sun": 56
       },
       "examples": [
         "Black",
@@ -33,22 +31,19 @@
     {
       "hue": "grey",
       "label": "Grey / Smoke",
-      "count": 496,
-      "brandCount": 4,
+      "count": 466,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 297,
-        "tint": 65,
-        "gradient": 134
+        "sun": 287,
+        "gradient": 134,
+        "tint": 45
       },
       "examples": [
-        "Silver",
-        "Gray",
         "Transitions Grey",
         "Polar Grey",
         "Polar Gradient Graphite",
@@ -56,55 +51,54 @@
         "Grey",
         "Grey Gradient",
         "Grey Mirrored",
-        "Sage"
+        "Sage",
+        "Blush",
+        "Light Grey"
       ]
     },
     {
       "hue": "brown",
       "label": "Brown",
-      "count": 570,
-      "brandCount": 4,
+      "count": 553,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 340,
-        "tint": 109,
-        "gradient": 121
+        "sun": 332,
+        "gradient": 121,
+        "tint": 100
       },
       "examples": [
-        "Brown",
-        "Tortoise",
-        "Gold",
         "Chocolate",
+        "Brown",
         "Brown Gradient",
         "Dark Amber",
         "Transitions Brown",
         "Brown Mirrored",
         "Blonde",
-        "Tortoise with Cosmitan Brown Lens"
+        "Tortoise with Cosmitan Brown Lens",
+        "Brown Ash",
+        "Tokyo Tortoise"
       ]
     },
     {
       "hue": "amber",
       "label": "Amber / Tortoise",
-      "count": 153,
-      "brandCount": 3,
+      "count": 151,
+      "brandCount": 2,
       "brands": [
-        "Gentle Monster",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 6,
-        "tint": 131,
-        "gradient": 16
+        "tint": 130,
+        "gradient": 16,
+        "sun": 5
       },
       "examples": [
-        "White",
         "Yellow Tint",
         "Flesh",
         "Candy Corn",
@@ -150,21 +144,19 @@
     {
       "hue": "rose",
       "label": "Rose / Red",
-      "count": 339,
-      "brandCount": 4,
+      "count": 331,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 150,
-        "tint": 160,
+        "sun": 143,
+        "tint": 159,
         "gradient": 29
       },
       "examples": [
-        "Red",
         "Meta Adventurer Large Merlot Transitions Ruby Lenses",
         "Rosy Brown Tint",
         "Rosewood Mirrored",
@@ -173,27 +165,26 @@
         "Cabernet",
         "Big Apple Fade",
         "Root Beer Fade",
-        "City Lights"
+        "City Lights",
+        "Westside Sunset"
       ]
     },
     {
       "hue": "violet",
       "label": "Violet",
-      "count": 127,
-      "brandCount": 4,
+      "count": 125,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "tint": 9,
-        "sun": 3,
-        "gradient": 115
+        "sun": 2,
+        "gradient": 115,
+        "tint": 8
       },
       "examples": [
-        "Purple",
         "Transitions Amethyst",
         "Violet Gradient",
         "Lavender"
@@ -202,24 +193,23 @@
     {
       "hue": "blue",
       "label": "Blue",
-      "count": 481,
-      "brandCount": 4,
+      "count": 476,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "tint": 202,
-        "sun": 138,
-        "gradient": 141
+        "sun": 136,
+        "gradient": 141,
+        "tint": 199
       },
       "examples": [
-        "Blue",
         "Transitions Sapphire",
         "Light Blue Atlantic",
         "Cerulean Blue Transitions",
+        "Blue",
         "Blue Gradient",
         "Blue Tint",
         "Light Blue-Grey",
@@ -246,18 +236,17 @@
     {
       "hue": "green",
       "label": "Green / G-15",
-      "count": 337,
-      "brandCount": 4,
+      "count": 336,
+      "brandCount": 3,
       "brands": [
-        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "tint": 25,
         "sun": 186,
-        "gradient": 126
+        "gradient": 126,
+        "tint": 24
       },
       "examples": [
         "Green",
@@ -319,15 +308,19 @@
     {
       "hue": "unknown",
       "label": "Unknown",
-      "count": 2,
-      "brandCount": 1,
+      "count": 104,
+      "brandCount": 2,
       "brands": [
+        "Gentle Monster",
         "Meta AI Glasses"
       ],
       "cats": {
-        "sun": 2
+        "sun": 53,
+        "tint": 51
       },
       "examples": [
+        "Sun lens",
+        "Tint lens",
         "Transitions"
       ]
     }
@@ -336,39 +329,20 @@
     "black": [
       {
         "frameFamily": "Black / Ink",
-        "count": 93,
-        "weighted": 1672,
+        "count": 56,
+        "weighted": 971,
         "examples": [
-          "Black",
           "Starfire Kylie Edition Classic Black Lenses",
+          "Black",
           "Matte Black"
         ],
         "brands": [
-          "Gentle Monster",
           "Meta AI Glasses",
           "MOSCOT"
         ]
       }
     ],
     "grey": [
-      {
-        "frameFamily": "Grey / Silver",
-        "count": 111,
-        "weighted": 2425,
-        "examples": [
-          "Silver",
-          "Gray",
-          "Antique Shale Fade",
-          "Licorice Crystal with Antique Silver",
-          "Antique Silver",
-          "Light Grey"
-        ],
-        "brands": [
-          "Gentle Monster",
-          "Warby Parker",
-          "MOSCOT"
-        ]
-      },
       {
         "frameFamily": "Black / Ink",
         "count": 118,
@@ -383,6 +357,23 @@
         ],
         "brands": [
           "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 81,
+        "weighted": 1859,
+        "examples": [
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver",
+          "Light Grey",
+          "Grey",
+          "American Grey Fade"
+        ],
+        "brands": [
           "Warby Parker",
           "MOSCOT"
         ]
@@ -443,18 +434,17 @@
     "brown": [
       {
         "frameFamily": "Tortoise / Brown",
-        "count": 256,
-        "weighted": 4040,
+        "count": 240,
+        "weighted": 3609,
         "examples": [
-          "Brown",
-          "Tortoise",
           "Starfire Kylie Edition Dark Tortoise",
           "Adventurer Large Classic Tortoise",
           "Toffee Tortoise",
-          "Aventurine Tortoise with Polished Gold"
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise"
         ],
         "brands": [
-          "Gentle Monster",
           "Meta AI Glasses",
           "Warby Parker",
           "MOSCOT"
@@ -480,18 +470,17 @@
       },
       {
         "frameFamily": "Gold / Warm Crystal",
-        "count": 51,
-        "weighted": 892,
+        "count": 50,
+        "weighted": 867,
         "examples": [
-          "Gold",
           "Fury Sandstone",
           "Violet Magnolia with Polished Gold",
           "Polished Gold",
           "Apricot",
-          "Beach Glass With Polished Gold"
+          "Beach Glass With Polished Gold",
+          "Amber"
         ],
         "brands": [
-          "Gentle Monster",
           "Meta AI Glasses",
           "Warby Parker",
           "MOSCOT"
@@ -547,18 +536,17 @@
       },
       {
         "frameFamily": "Other / Mixed",
-        "count": 24,
-        "weighted": 627,
+        "count": 22,
+        "weighted": 625,
         "examples": [
-          "White",
           "Striped Sassafras",
           "Poblano",
           "English Oak Matte",
           "Balsam Matte",
-          "Praline"
+          "Praline",
+          "Amarena with Oak Barrel"
         ],
         "brands": [
-          "Gentle Monster",
           "Warby Parker",
           "MOSCOT"
         ]
@@ -669,18 +657,17 @@
       },
       {
         "frameFamily": "Rose / Red / Purple",
-        "count": 78,
-        "weighted": 1764,
+        "count": 70,
+        "weighted": 1723,
         "examples": [
-          "Red",
           "Rose Water",
           "Layered Bordeaux",
           "Indigo Rose",
           "Beach Rose Matte",
-          "Ruby"
+          "Ruby",
+          "New York Rose"
         ],
         "brands": [
-          "Gentle Monster",
           "Warby Parker",
           "MOSCOT"
         ]
@@ -767,18 +754,17 @@
       },
       {
         "frameFamily": "Rose / Red / Purple",
-        "count": 17,
-        "weighted": 378,
+        "count": 15,
+        "weighted": 376,
         "examples": [
-          "Purple",
           "Ray-Ban Meta Skyler (Gen 2) Shiny Mystic Violet",
           "Rose Water",
           "Layered Bordeaux",
           "Indigo Rose",
-          "Beach Rose Matte"
+          "Beach Rose Matte",
+          "Lavender"
         ],
         "brands": [
-          "Gentle Monster",
           "Meta AI Glasses",
           "Warby Parker",
           "MOSCOT"
@@ -817,18 +803,17 @@
     "blue": [
       {
         "frameFamily": "Blue / Navy",
-        "count": 109,
-        "weighted": 2305,
+        "count": 104,
+        "weighted": 2261,
         "examples": [
-          "Blue",
           "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Cosmic Blue",
           "Stone Blue",
           "Denim Blue",
           "Celebrity Blue",
-          "Bel Air Blue"
+          "Bel Air Blue",
+          "Broadway Blue Fade"
         ],
         "brands": [
-          "Gentle Monster",
           "Meta AI Glasses",
           "Warby Parker",
           "MOSCOT"
@@ -988,18 +973,17 @@
       },
       {
         "frameFamily": "Green / Olive",
-        "count": 33,
-        "weighted": 409,
+        "count": 32,
+        "weighted": 408,
         "examples": [
-          "Green",
           "Olive with Riesling",
           "Emerald",
           "Dark Green",
           "Pine",
-          "Olive Green"
+          "Olive Green",
+          "Ever Green"
         ],
         "brands": [
-          "Gentle Monster",
           "Warby Parker",
           "MOSCOT"
         ]
@@ -1095,14 +1079,62 @@
     ],
     "unknown": [
       {
-        "frameFamily": "Other / Mixed",
-        "count": 2,
-        "weighted": 94,
+        "frameFamily": "Black / Ink",
+        "count": 37,
+        "weighted": 701,
         "examples": [
+          "Black"
+        ],
+        "brands": [
+          "Gentle Monster"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 30,
+        "weighted": 566,
+        "examples": [
+          "Silver",
+          "Gray"
+        ],
+        "brands": [
+          "Gentle Monster"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 16,
+        "weighted": 431,
+        "examples": [
+          "Brown",
+          "Tortoise"
+        ],
+        "brands": [
+          "Gentle Monster"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 4,
+        "weighted": 96,
+        "examples": [
+          "White",
           "Ray-Ban Display"
         ],
         "brands": [
+          "Gentle Monster",
           "Meta AI Glasses"
+        ]
+      },
+      {
+        "frameFamily": "Blue / Navy",
+        "count": 5,
+        "weighted": 44,
+        "examples": [
+          "Blue"
+        ],
+        "brands": [
+          "Gentle Monster"
         ]
       }
     ]

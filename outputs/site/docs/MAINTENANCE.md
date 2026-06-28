@@ -153,6 +153,25 @@ Review:
 
 After review, put durable logic into `work/build_combined.js` or the input mapping, then rebuild.
 
+## Manual Corrections From The Website
+
+The Catalog page includes manual correction controls on each product card:
+
+- change `lensHue`
+- change `cat`
+- click `Save`
+- export the browser-local override JSON from Catalog or Data Admin
+
+These edits are stored in the browser first. To make them permanent for everyone:
+
+1. Export `lens-color-overrides.json`.
+2. Review the changed records.
+3. Add the reviewed corrections to the builder or an input override file.
+4. Run `npm run build:site`.
+5. Deploy the regenerated `outputs/site`.
+
+Do not rely on browser-local overrides as the only source of truth for production.
+
 ## Overview Maintenance
 
 Overview should stay data-backed. It currently includes:

@@ -169,7 +169,6 @@ function hueFromHex(hex) {
   if (h < 28) return l < 0.54 ? 'brown' : 'orange';
   if (h < 48) return l < 0.52 ? 'brown' : 'amber';
   if (h < 62) return 'yellow';
-  if (h < 86) return 'olive';
   if (h < 165) return 'green';
   if (h < 195) return 'teal';
   if (h < 248) return 'blue';
@@ -437,11 +436,11 @@ function buildData() {
     })(),
   }));
 
-  const hueOrder = ['black', 'grey', 'brown', 'amber', 'yellow', 'orange', 'rose', 'violet', 'blue', 'teal', 'green', 'olive', 'unknown'];
+  const hueOrder = ['black', 'grey', 'brown', 'amber', 'yellow', 'orange', 'rose', 'violet', 'blue', 'teal', 'green', 'unknown'];
   const hueLabel = {
     black: 'Black', grey: 'Grey / Smoke', brown: 'Brown', amber: 'Amber / Tortoise',
     yellow: 'Yellow', orange: 'Orange', rose: 'Rose / Red', violet: 'Violet',
-    blue: 'Blue', teal: 'Teal', green: 'Green / G-15', olive: 'Olive / Khaki',
+    blue: 'Blue', teal: 'Teal', green: 'Green / G-15 / Olive / Khaki',
     unknown: 'Unknown',
   };
 
@@ -549,7 +548,7 @@ const RESEARCH=[
 ];
 const CATS=['sun','tint','gradient'];
 const CATLABEL={sun:'Sun',tint:'Tint',gradient:'Gradient'};
-const HUELABEL={black:'Black',grey:'Grey / Smoke',brown:'Brown',amber:'Amber / Tortoise',yellow:'Yellow',orange:'Orange',rose:'Rose / Red',violet:'Violet',blue:'Blue',teal:'Teal',green:'Green / G-15',olive:'Olive / Khaki',clear:'Clear / Crystal',unknown:'Unknown'};
+const HUELABEL={black:'Black',grey:'Grey / Smoke',brown:'Brown',amber:'Amber / Tortoise',yellow:'Yellow',orange:'Orange',rose:'Rose / Red',violet:'Violet',blue:'Blue',teal:'Teal',green:'Green / G-15 / Olive / Khaki',clear:'Clear / Crystal',unknown:'Unknown'};
 const KEY='combined_sunglasses_category_edits_v1';
 const defaults=Object.fromEntries(DATA.classifiers.map(x=>[x.key,x.cat]));
 let cats=Object.assign({},defaults,JSON.parse(localStorage.getItem(KEY)||'{}'));

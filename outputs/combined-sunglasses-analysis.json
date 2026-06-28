@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T14:19:37.855Z",
+  "generatedAt": "2026-06-28T15:10:30.758Z",
   "totals": {
     "records": 2706,
     "classifiers": 281,
@@ -252,20 +252,22 @@
     },
     {
       "hue": "green",
-      "label": "Green / G-15",
-      "count": 337,
-      "brandCount": 3,
+      "label": "Green / G-15 / Olive / Khaki",
+      "count": 364,
+      "brandCount": 4,
       "brands": [
+        "Gentle Monster",
         "Meta AI Glasses",
         "Warby Parker",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 187,
-        "gradient": 126,
-        "tint": 24
+        "tint": 37,
+        "sun": 201,
+        "gradient": 126
       },
       "examples": [
+        "Tint lens",
         "Green",
         "Transitions Graphite Green",
         "Clear to G-15 Green Transitions",
@@ -273,32 +275,8 @@
         "Transitions Emerald",
         "Green Gradient",
         "Tortoise with G-15 Lens",
-        "Emerald",
-        "Limelight",
-        "Forest Wood"
-      ]
-    },
-    {
-      "hue": "olive",
-      "label": "Olive / Khaki",
-      "count": 27,
-      "brandCount": 2,
-      "brands": [
-        "Gentle Monster",
-        "MOSCOT"
-      ],
-      "cats": {
-        "tint": 13,
-        "sun": 14
-      },
-      "examples": [
-        "Tint lens",
         "Tobacco",
-        "Garnet Green",
-        "Khaki",
-        "Brown/Bamboo",
-        "Brown Bamboo",
-        "Olive Bark"
+        "Emerald"
       ]
     },
     {
@@ -991,8 +969,8 @@
     "green": [
       {
         "frameFamily": "Tortoise / Brown",
-        "count": 97,
-        "weighted": 1631,
+        "count": 111,
+        "weighted": 1903,
         "examples": [
           "Toffee Tortoise",
           "Aventurine Tortoise with Polished Gold",
@@ -1008,17 +986,18 @@
       },
       {
         "frameFamily": "Black / Ink",
-        "count": 76,
-        "weighted": 1545,
+        "count": 77,
+        "weighted": 1546,
         "examples": [
+          "Black",
           "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Black",
           "Ray-Ban Meta Wayfarer (Gen 1), Matte Black / , Large",
           "Ray-Ban Meta Wayfarer (Gen 1), Shiny Black / , Large",
           "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
-          "Ray-Ban Meta Skyler (Gen 2) Shiny Black",
-          "Ray-Ban Meta Headliner (Gen 2) Low Bridge Fit Shiny Black"
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Black"
         ],
         "brands": [
+          "Gentle Monster",
           "Meta AI Glasses",
           "Warby Parker"
         ]
@@ -1042,6 +1021,23 @@
         ]
       },
       {
+        "frameFamily": "Green / Olive",
+        "count": 44,
+        "weighted": 656,
+        "examples": [
+          "Olive with Riesling",
+          "Emerald",
+          "Garnet Green",
+          "Dark Green",
+          "Khaki",
+          "Pine"
+        ],
+        "brands": [
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
         "frameFamily": "Grey / Silver",
         "count": 15,
         "weighted": 550,
@@ -1054,62 +1050,6 @@
         "brands": [
           "Meta AI Glasses",
           "Warby Parker"
-        ]
-      },
-      {
-        "frameFamily": "Green / Olive",
-        "count": 32,
-        "weighted": 408,
-        "examples": [
-          "Olive with Riesling",
-          "Emerald",
-          "Dark Green",
-          "Pine",
-          "Olive Green",
-          "Ever Green"
-        ],
-        "brands": [
-          "Warby Parker",
-          "MOSCOT"
-        ]
-      }
-    ],
-    "olive": [
-      {
-        "frameFamily": "Tortoise / Brown",
-        "count": 14,
-        "weighted": 272,
-        "examples": [
-          "Tobacco",
-          "Brown/Bamboo",
-          "Brown Bamboo",
-          "Olive Bark"
-        ],
-        "brands": [
-          "MOSCOT"
-        ]
-      },
-      {
-        "frameFamily": "Green / Olive",
-        "count": 12,
-        "weighted": 248,
-        "examples": [
-          "Garnet Green",
-          "Khaki"
-        ],
-        "brands": [
-          "MOSCOT"
-        ]
-      },
-      {
-        "frameFamily": "Black / Ink",
-        "count": 1,
-        "weighted": 1,
-        "examples": [
-          "Black"
-        ],
-        "brands": [
-          "Gentle Monster"
         ]
       }
     ],

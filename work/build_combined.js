@@ -181,19 +181,19 @@ function hueFromHex(hex) {
 function canonicalHexFromName(name) {
   const n = String(name || '').toLowerCase();
   const rules = [
+    [/yellow tint|mellow yellow|pastel yellow|yellow\b|citron|goldenrod|candy corn/, '#FEEB6B'],
     [/clear to g-?15|g-?15|g15|graphite green|green\b|emerald|forest|sage|pine|garnet|ever green|dark green/, '#3f5942'],
     [/olive|khaki|bamboo|limelight/, '#6f7442'],
     [/sapphire|cerulean|atlantic|bel air|celebrity blue|denim|light blue|blue\b|navy|aqua|turquoise/, '#426f94'],
     [/teal/, '#2f7778'],
     [/amethyst|violet|purple|lavender|nurple/, '#7560a8'],
     [/\bruby\b|cabernet|rosewood|rosy|\brose\b|\bred\b|burgundy|merlot|blush|new york rose|big apple|city lights/, '#9b5265'],
-    [/yellow|mellow|citron|goldenrod|candy corn/, '#d8b63e'],
     [/orange|woodstock/, '#c9702f'],
     [/dark amber|amber|gold|sand|tortoise|havana|honey|blonde|butterscotch|caramel|classic havana|tokyo tortoise/, '#a56f35'],
     [/chocolate|brown gradient|brown mirrored|brown\b|walnut|tobacco|chestnut|root beer|bark|wood|cinnamon|sepia|cosmitan/, '#6b4a34'],
     [/polar gradient graphite|gradient graphite|graphite|polar grey|transitions grey|grey|gray|silver|pewter|gunmetal|charcoal|smoke|ash|shale/, '#626465'],
     [/black|matte black|ink|onyx|noir/, '#171717'],
-    [/crystal|clear|flesh|transparent|peach|apricot|beach glass|white|straw/, '#d9c8b7'],
+    [/flesh|peach|apricot|straw/, '#d9c8b7'],
   ];
   for (const [pattern, hex] of rules) {
     if (pattern.test(n)) return hex;
@@ -203,16 +203,18 @@ function canonicalHexFromName(name) {
 
 function calibrateColor(name, actualHex = '') {
   const cleanHex = /^#[0-9a-f]{6}$/i.test(actualHex || '') ? actualHex.toUpperCase() : '';
-  const mappedHex = canonicalHexFromName(name);
-  const hex = cleanHex || mappedHex;
   const n = String(name || '').toLowerCase();
-  if (!cleanHex && /\bcrystal|clear|transparent|beach glass\b/.test(n)) {
+  const clearFrameOnly = /\b(crystal|transparent|beach glass)\b/.test(n)
+    || (/\bclear\b/.test(n) && !/\bclear\s+to\b|\bto\s+(g-?15|green|sapphire|amethyst|emerald|brown|grey|gray)\b/.test(n));
+  if (!cleanHex && clearFrameOnly) {
     return {
-      hue: 'clear',
-      hex,
-      source: mappedHex ? 'name-to-reference-hex' : 'name-keyword',
+      hue: 'unknown',
+      hex: '',
+      source: 'frame-color-name-not-lens-hex',
     };
   }
+  const mappedHex = canonicalHexFromName(name);
+  const hex = cleanHex || mappedHex;
   return {
     hue: hueFromHex(hex) || hueFromName(name),
     hex,
@@ -234,7 +236,7 @@ function hueFromName(name, hex = '') {
   if (/\bviolet|purple|lavender|nurple\b/.test(n)) return 'violet';
   if (/\brose|rosewood|rosy|pink|blush|burgundy|cabernet|ruby|garnet|red|wine|big apple\b/.test(n)) return 'rose';
   if (/\borange|woodstock|candy corn\b/.test(n)) return 'orange';
-  if (/\bcrystal|clear|flesh|apricot|beach glass\b/.test(n)) return byHex || 'clear';
+  if (/\bflesh|apricot\b/.test(n)) return byHex || 'amber';
   return byHex || 'unknown';
 }
 
@@ -435,12 +437,12 @@ function buildData() {
     })(),
   }));
 
-  const hueOrder = ['black', 'grey', 'brown', 'amber', 'yellow', 'orange', 'rose', 'violet', 'blue', 'teal', 'green', 'olive', 'clear', 'unknown'];
+  const hueOrder = ['black', 'grey', 'brown', 'amber', 'yellow', 'orange', 'rose', 'violet', 'blue', 'teal', 'green', 'olive', 'unknown'];
   const hueLabel = {
     black: 'Black', grey: 'Grey / Smoke', brown: 'Brown', amber: 'Amber / Tortoise',
     yellow: 'Yellow', orange: 'Orange', rose: 'Rose / Red', violet: 'Violet',
     blue: 'Blue', teal: 'Teal', green: 'Green / G-15', olive: 'Olive / Khaki',
-    clear: 'Clear / Crystal', unknown: 'Unknown',
+    unknown: 'Unknown',
   };
 
   const hueSummary = hueOrder.map(hue => {

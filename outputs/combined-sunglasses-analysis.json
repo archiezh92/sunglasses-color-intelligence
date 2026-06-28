@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T13:44:19.200Z",
+  "generatedAt": "2026-06-28T14:19:37.855Z",
   "totals": {
     "records": 2706,
     "classifiers": 281,
@@ -89,7 +89,29 @@
     {
       "hue": "amber",
       "label": "Amber / Tortoise",
-      "count": 161,
+      "count": 40,
+      "brandCount": 2,
+      "brands": [
+        "Gentle Monster",
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 23,
+        "gradient": 16,
+        "sun": 1
+      },
+      "examples": [
+        "Tint lens",
+        "Flesh",
+        "Candy Corn",
+        "Chestnut Fade",
+        "Straw"
+      ]
+    },
+    {
+      "hue": "yellow",
+      "label": "Yellow",
+      "count": 162,
       "brandCount": 3,
       "brands": [
         "Gentle Monster",
@@ -97,40 +119,18 @@
         "MOSCOT"
       ],
       "cats": {
-        "tint": 140,
-        "gradient": 16,
-        "sun": 5
-      },
-      "examples": [
-        "Tint lens",
-        "Yellow Tint",
-        "Flesh",
-        "Candy Corn",
-        "Chestnut Fade",
-        "Citron/Tortoise",
-        "Goldenrod",
-        "Straw"
-      ]
-    },
-    {
-      "hue": "yellow",
-      "label": "Yellow",
-      "count": 41,
-      "brandCount": 2,
-      "brands": [
-        "Gentle Monster",
-        "MOSCOT"
-      ],
-      "cats": {
-        "sun": 10,
-        "tint": 31
+        "sun": 14,
+        "tint": 148
       },
       "examples": [
         "Sun lens",
         "Tint lens",
+        "Yellow Tint",
         "Bamboo",
         "Pastel Yellow",
-        "Mellow Yellow"
+        "Mellow Yellow",
+        "Citron/Tortoise",
+        "Goldenrod"
       ]
     },
     {
@@ -182,7 +182,7 @@
     {
       "hue": "violet",
       "label": "Violet",
-      "count": 126,
+      "count": 127,
       "brandCount": 4,
       "brands": [
         "Gentle Monster",
@@ -192,11 +192,12 @@
       ],
       "cats": {
         "tint": 9,
-        "sun": 2,
+        "sun": 3,
         "gradient": 115
       },
       "examples": [
         "Tint lens",
+        "Clear to Amethyst Transitions",
         "Transitions Amethyst",
         "Violet Gradient",
         "Lavender"
@@ -205,7 +206,7 @@
     {
       "hue": "blue",
       "label": "Blue",
-      "count": 480,
+      "count": 481,
       "brandCount": 4,
       "brands": [
         "Gentle Monster",
@@ -215,7 +216,7 @@
       ],
       "cats": {
         "tint": 202,
-        "sun": 137,
+        "sun": 138,
         "gradient": 141
       },
       "examples": [
@@ -223,12 +224,12 @@
         "Sun lens",
         "Transitions Sapphire",
         "Light Blue Atlantic",
+        "Clear to Sapphire Transitions",
         "Cerulean Blue Transitions",
         "Blue",
         "Blue Gradient",
         "Blue Tint",
-        "Light Blue-Grey",
-        "Denim Blue"
+        "Light Blue-Grey"
       ]
     },
     {
@@ -252,7 +253,7 @@
     {
       "hue": "green",
       "label": "Green / G-15",
-      "count": 336,
+      "count": 337,
       "brandCount": 3,
       "brands": [
         "Meta AI Glasses",
@@ -260,21 +261,21 @@
         "MOSCOT"
       ],
       "cats": {
-        "sun": 186,
+        "sun": 187,
         "gradient": 126,
         "tint": 24
       },
       "examples": [
         "Green",
         "Transitions Graphite Green",
+        "Clear to G-15 Green Transitions",
         "G15 Green",
         "Transitions Emerald",
         "Green Gradient",
         "Tortoise with G-15 Lens",
         "Emerald",
         "Limelight",
-        "Forest Wood",
-        "G-15 Fade"
+        "Forest Wood"
       ]
     },
     {
@@ -301,41 +302,24 @@
       ]
     },
     {
-      "hue": "clear",
-      "label": "Clear / Crystal",
-      "count": 20,
+      "hue": "unknown",
+      "label": "Unknown",
+      "count": 19,
       "brandCount": 2,
       "brands": [
         "Meta AI Glasses",
         "MOSCOT"
       ],
       "cats": {
-        "sun": 4,
+        "sun": 3,
         "tint": 16
       },
       "examples": [
-        "Clear to G-15 Green Transitions",
-        "Clear to Sapphire Transitions",
-        "Clear to Amethyst Transitions",
+        "Transitions",
         "Crystal",
         "Black Crystal",
         "Crystal/Gold",
         "Tortoise/Crystal"
-      ]
-    },
-    {
-      "hue": "unknown",
-      "label": "Unknown",
-      "count": 2,
-      "brandCount": 1,
-      "brands": [
-        "Meta AI Glasses"
-      ],
-      "cats": {
-        "sun": 2
-      },
-      "examples": [
-        "Transitions"
       ]
     }
   ],
@@ -542,8 +526,68 @@
     "amber": [
       {
         "frameFamily": "Tortoise / Brown",
-        "count": 56,
-        "weighted": 1177,
+        "count": 17,
+        "weighted": 584,
+        "examples": [
+          "Tortoise",
+          "Chestnut Fade"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 10,
+        "weighted": 418,
+        "examples": [
+          "Candy Corn",
+          "Straw"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Clear / Crystal",
+        "count": 4,
+        "weighted": 158,
+        "examples": [
+          "Flesh"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 6,
+        "weighted": 119,
+        "examples": [
+          "Silver"
+        ],
+        "brands": [
+          "Gentle Monster"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 2,
+        "weighted": 47,
+        "examples": [
+          "Black"
+        ],
+        "brands": [
+          "Gentle Monster"
+        ]
+      }
+    ],
+    "yellow": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 49,
+        "weighted": 789,
         "examples": [
           "Tortoise",
           "Toffee Tortoise",
@@ -559,16 +603,16 @@
         ]
       },
       {
-        "frameFamily": "Other / Mixed",
-        "count": 22,
-        "weighted": 625,
+        "frameFamily": "Gold / Warm Crystal",
+        "count": 35,
+        "weighted": 750,
         "examples": [
-          "Striped Sassafras",
-          "Poblano",
-          "English Oak Matte",
-          "Balsam Matte",
-          "Praline",
-          "Amarena with Oak Barrel"
+          "Violet Magnolia with Polished Gold",
+          "Polished Gold",
+          "Apricot",
+          "Beach Glass With Polished Gold",
+          "Pastel Yellow",
+          "Mellow Yellow"
         ],
         "brands": [
           "Warby Parker",
@@ -577,25 +621,24 @@
       },
       {
         "frameFamily": "Black / Ink",
-        "count": 35,
-        "weighted": 588,
+        "count": 33,
+        "weighted": 541,
         "examples": [
-          "Black",
           "Black Walnut",
           "Brushed Ink",
           "Jet Black Matte with Polished Silver",
           "Jet Black",
-          "Jet Black with Polished Gold"
+          "Jet Black with Polished Gold",
+          "Black Oak Tortoise with Polished Gold"
         ],
         "brands": [
-          "Gentle Monster",
           "Warby Parker"
         ]
       },
       {
         "frameFamily": "Grey / Silver",
-        "count": 13,
-        "weighted": 369,
+        "count": 8,
+        "weighted": 302,
         "examples": [
           "Silver",
           "Antique Shale Fade",
@@ -608,69 +651,19 @@
         ]
       },
       {
-        "frameFamily": "Clear / Crystal",
-        "count": 20,
-        "weighted": 313,
+        "frameFamily": "Other / Mixed",
+        "count": 12,
+        "weighted": 207,
         "examples": [
-          "Umber Crystal",
-          "Palm Crystal",
-          "Crystal Moss",
-          "Eucalyptus Crystal with Riesling",
-          "Nori Crystal",
-          "Crystal"
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline",
+          "Amarena with Oak Barrel"
         ],
         "brands": [
-          "Warby Parker",
-          "MOSCOT"
-        ]
-      }
-    ],
-    "yellow": [
-      {
-        "frameFamily": "Gold / Warm Crystal",
-        "count": 29,
-        "weighted": 716,
-        "examples": [
-          "Pastel Yellow",
-          "Mellow Yellow"
-        ],
-        "brands": [
-          "MOSCOT"
-        ]
-      },
-      {
-        "frameFamily": "Tortoise / Brown",
-        "count": 10,
-        "weighted": 196,
-        "examples": [
-          "Tortoise",
-          "Bamboo"
-        ],
-        "brands": [
-          "Gentle Monster",
-          "MOSCOT"
-        ]
-      },
-      {
-        "frameFamily": "Grey / Silver",
-        "count": 1,
-        "weighted": 52,
-        "examples": [
-          "Silver"
-        ],
-        "brands": [
-          "Gentle Monster"
-        ]
-      },
-      {
-        "frameFamily": "Green / Olive",
-        "count": 1,
-        "weighted": 1,
-        "examples": [
-          "Green"
-        ],
-        "brands": [
-          "Gentle Monster"
+          "Warby Parker"
         ]
       }
     ],
@@ -799,15 +792,15 @@
     "violet": [
       {
         "frameFamily": "Black / Ink",
-        "count": 34,
-        "weighted": 593,
+        "count": 35,
+        "weighted": 646,
         "examples": [
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
           "Ray-Ban Meta Skyler (Gen 2) Shiny Black",
           "Black Walnut",
           "Brushed Ink",
           "Jet Black Matte with Polished Silver",
-          "Jet Black",
-          "Jet Black with Polished Gold"
+          "Jet Black"
         ],
         "brands": [
           "Meta AI Glasses",
@@ -954,15 +947,15 @@
       },
       {
         "frameFamily": "Grey / Silver",
-        "count": 25,
-        "weighted": 918,
+        "count": 26,
+        "weighted": 971,
         "examples": [
           "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Transparent Grey",
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Chalky Gray / , Standard",
           "Ray-Ban Meta Skyler (Gen 2) Shiny Chalky Gray",
           "Antique Shale Fade",
           "Licorice Crystal with Antique Silver",
-          "Antique Silver",
-          "Light Blue-Grey"
+          "Antique Silver"
         ],
         "brands": [
           "Meta AI Glasses",
@@ -1015,15 +1008,15 @@
       },
       {
         "frameFamily": "Black / Ink",
-        "count": 75,
-        "weighted": 1490,
+        "count": 76,
+        "weighted": 1545,
         "examples": [
           "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Black",
+          "Ray-Ban Meta Wayfarer (Gen 1), Matte Black / , Large",
           "Ray-Ban Meta Wayfarer (Gen 1), Shiny Black / , Large",
           "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
           "Ray-Ban Meta Skyler (Gen 2) Shiny Black",
-          "Ray-Ban Meta Headliner (Gen 2) Low Bridge Fit Shiny Black",
-          "Ray-Ban Meta Headliner (Gen 2) Shiny Black"
+          "Ray-Ban Meta Headliner (Gen 2) Low Bridge Fit Shiny Black"
         ],
         "brands": [
           "Meta AI Glasses",
@@ -1120,7 +1113,7 @@
         ]
       }
     ],
-    "clear": [
+    "unknown": [
       {
         "frameFamily": "Clear / Crystal",
         "count": 14,
@@ -1133,28 +1126,25 @@
         ]
       },
       {
-        "frameFamily": "Black / Ink",
-        "count": 3,
-        "weighted": 167,
+        "frameFamily": "Other / Mixed",
+        "count": 2,
+        "weighted": 94,
         "examples": [
-          "Ray-Ban Meta Wayfarer (Gen 1), Matte Black / , Large",
-          "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
-          "Black Crystal"
-        ],
-        "brands": [
-          "Meta AI Glasses",
-          "MOSCOT"
-        ]
-      },
-      {
-        "frameFamily": "Grey / Silver",
-        "count": 1,
-        "weighted": 53,
-        "examples": [
-          "Ray-Ban Meta Skyler (Gen 1), Shiny Chalky Gray / , Standard"
+          "Ray-Ban Display"
         ],
         "brands": [
           "Meta AI Glasses"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 1,
+        "weighted": 59,
+        "examples": [
+          "Black Crystal"
+        ],
+        "brands": [
+          "MOSCOT"
         ]
       },
       {
@@ -1177,19 +1167,6 @@
         ],
         "brands": [
           "MOSCOT"
-        ]
-      }
-    ],
-    "unknown": [
-      {
-        "frameFamily": "Other / Mixed",
-        "count": 2,
-        "weighted": 94,
-        "examples": [
-          "Ray-Ban Display"
-        ],
-        "brands": [
-          "Meta AI Glasses"
         ]
       }
     ]

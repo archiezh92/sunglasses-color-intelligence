@@ -1,5 +1,5 @@
-const HUE_LABEL={black:'Black',grey:'Grey / Smoke',brown:'Brown',amber:'Amber / Tortoise',yellow:'Yellow',orange:'Orange',rose:'Rose / Red',violet:'Violet',blue:'Blue',teal:'Teal',green:'Green / G-15',olive:'Olive / Khaki',clear:'Clear / Crystal',unknown:'Unknown'};
-const HUE_COLOR={black:'#1f1f1f',grey:'#656766',brown:'#6b4a34',amber:'#b07a35',yellow:'#d7aa22',orange:'#c9702f',rose:'#9b5265',violet:'#7560a8',blue:'#276d98',teal:'#26777a',green:'#48694c',olive:'#777b45',clear:'#b7c7c8',unknown:'#8a8176'};
+const HUE_LABEL={black:'Black',grey:'Grey / Smoke',brown:'Brown',amber:'Amber / Tortoise',yellow:'Yellow',orange:'Orange',rose:'Rose / Red',violet:'Violet',blue:'Blue',teal:'Teal',green:'Green / G-15',olive:'Olive / Khaki',unknown:'Unknown'};
+const HUE_COLOR={black:'#1f1f1f',grey:'#656766',brown:'#6b4a34',amber:'#b07a35',yellow:'#d7aa22',orange:'#c9702f',rose:'#9b5265',violet:'#7560a8',blue:'#276d98',teal:'#26777a',green:'#48694c',olive:'#777b45',unknown:'#8a8176'};
 const CAT_LABEL={sun:'Sun',tint:'Tint',gradient:'Gradient'};
 const state={catalog:null,insights:null,hue:'brown',query:'',brand:'',cat:'',lensHue:'',frameFamily:'',overrides:{}};
 const $=s=>document.querySelector(s);

@@ -53,11 +53,11 @@
     "product": "LEMTOSH SUN",
     "lensName": "Blush",
     "frameColor": "Blush",
-    "lensHue": "grey",
+    "lensHue": "green",
     "cat": "sun",
     "hueHex": "#767A66",
     "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:56:52.530Z"
+    "updatedAt": "2026-06-28T15:17:54.719Z"
   },
   "moscot:1:19:light-grey": {
     "id": "moscot:1:19:light-grey",
@@ -65,11 +65,11 @@
     "product": "LEMTOSH SUN",
     "lensName": "Light Grey",
     "frameColor": "Light Grey",
-    "lensHue": "grey",
+    "lensHue": "green",
     "cat": "sun",
     "hueHex": "#63695C",
     "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:56:56.927Z"
+    "updatedAt": "2026-06-28T15:17:59.753Z"
   },
   "warby:brimmer:BLUE_GRADIENT": {
     "id": "warby:brimmer:BLUE_GRADIENT",
@@ -282,10 +282,10 @@
     "lensName": "Forest Wood",
     "frameColor": "Forest Wood",
     "lensHue": "green",
-    "cat": "tint",
+    "cat": "sun",
     "hueHex": "#6A775D",
     "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:43.725Z"
+    "updatedAt": "2026-06-28T15:18:55.920Z"
   },
   "warby:esme:GREEN_GRADIENT": {
     "id": "warby:esme:GREEN_GRADIENT",
@@ -329,11 +329,11 @@
     "product": "LEMTOSH SUN",
     "lensName": "Bamboo",
     "frameColor": "Bamboo",
-    "lensHue": "black",
+    "lensHue": "green",
     "cat": "sun",
     "hueHex": "#5D5C45",
     "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:01:12.142Z"
+    "updatedAt": "2026-06-28T15:22:20.005Z"
   },
   "moscot:6:0:citron-tortoise": {
     "id": "moscot:6:0:citron-tortoise",
@@ -509,11 +509,11 @@
     "product": "BILLIK SUN",
     "lensName": "Crystal",
     "frameColor": "Crystal",
-    "lensHue": "black",
+    "lensHue": "green",
     "cat": "sun",
     "hueHex": "",
     "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:03:53.644Z"
+    "updatedAt": "2026-06-28T15:22:09.521Z"
   },
   "moscot:19:3:crystal": {
     "id": "moscot:19:3:crystal",
@@ -670,5 +670,233 @@
     "hueHex": "",
     "hueSource": "manual-override",
     "updatedAt": "2026-06-28T15:05:00.661Z"
+  },
+  "warby:franny:BROWN": {
+    "id": "warby:franny:BROWN",
+    "brand": "Warby Parker",
+    "product": "Franny",
+    "lensName": "Brown",
+    "frameColor": "Toffee Tortoise",
+    "lensHue": "grey",
+    "cat": "sun",
+    "hueHex": "#6b4a34",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:16:12.469Z"
+  },
+  "moscot:2:0:tortoise": {
+    "id": "moscot:2:0:tortoise",
+    "brand": "MOSCOT",
+    "product": "LEMTOSH FOLD",
+    "lensName": "Tortoise",
+    "frameColor": "Tortoise",
+    "lensHue": "green",
+    "cat": "sun",
+    "hueHex": "#5A4C3A",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:16:23.302Z"
+  },
+  "moscot:3:7:amber": {
+    "id": "moscot:3:7:amber",
+    "brand": "MOSCOT",
+    "product": "LEMTOSH BLACK WITH CUSTOM MADE TINTS™",
+    "lensName": "Amber",
+    "frameColor": "Amber",
+    "lensHue": "amber",
+    "cat": "tint",
+    "hueHex": "#AC8445",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:16:38.769Z"
+  },
+  "moscot:1:8:sage": {
+    "id": "moscot:1:8:sage",
+    "brand": "MOSCOT",
+    "product": "LEMTOSH SUN",
+    "lensName": "Sage",
+    "frameColor": "Sage",
+    "lensHue": "green",
+    "cat": "sun",
+    "hueHex": "#5F6A59",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:17:52.570Z"
+  },
+  "meta:meta-fury-mahogany-green-lenses:10": {
+    "id": "meta:meta-fury-mahogany-green-lenses:10",
+    "brand": "Meta AI Glasses",
+    "product": "Meta Glasses Fury",
+    "lensName": "Green",
+    "frameColor": "Fury Mahogany",
+    "lensHue": "brown",
+    "cat": "sun",
+    "hueHex": "#3f5942",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:18:42.353Z"
+  },
+  "moscot:3:17:g-15-fade": {
+    "id": "moscot:3:17:g-15-fade",
+    "brand": "MOSCOT",
+    "product": "LEMTOSH BLACK WITH CUSTOM MADE TINTS™",
+    "lensName": "G-15 Fade",
+    "frameColor": "G-15 Fade",
+    "lensHue": "green",
+    "cat": "tint",
+    "hueHex": "#323E2C",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:19:02.687Z"
+  },
+  "warby:millie:VIOLET_GRADIENT": {
+    "id": "warby:millie:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Millie",
+    "lensName": "Violet Gradient",
+    "frameColor": "Ancho Tortoise",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:19:53.270Z"
+  },
+  "warby:alvin:VIOLET_GRADIENT": {
+    "id": "warby:alvin:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Alvin",
+    "lensName": "Violet Gradient",
+    "frameColor": "English Oak Matte",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:19:58.404Z"
+  },
+  "warby:ames:VIOLET_GRADIENT": {
+    "id": "warby:ames:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Ames",
+    "lensName": "Violet Gradient",
+    "frameColor": "Jet Black Matte with Polished Silver",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:05.071Z"
+  },
+  "warby:aram:VIOLET_GRADIENT": {
+    "id": "warby:aram:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Aram",
+    "lensName": "Violet Gradient",
+    "frameColor": "Brushed Ink",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:19.604Z"
+  },
+  "warby:aubrey:VIOLET_GRADIENT": {
+    "id": "warby:aubrey:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Aubrey",
+    "lensName": "Violet Gradient",
+    "frameColor": "Garnet Tortoise",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:26.004Z"
+  },
+  "warby:auggie:VIOLET_GRADIENT": {
+    "id": "warby:auggie:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Auggie",
+    "lensName": "Violet Gradient",
+    "frameColor": "Cinnamon Tortoise",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:32.670Z"
+  },
+  "warby:augusta:VIOLET_GRADIENT": {
+    "id": "warby:augusta:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Augusta",
+    "lensName": "Violet Gradient",
+    "frameColor": "Confetti Tortoise",
+    "lensHue": "rose",
+    "cat": "gradient",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:39.437Z"
+  },
+  "warby:babs:VIOLET_GRADIENT": {
+    "id": "warby:babs:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Babs",
+    "lensName": "Violet Gradient",
+    "frameColor": "Layered Bordeaux",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:45.320Z"
+  },
+  "warby:baird:VIOLET_GRADIENT": {
+    "id": "warby:baird:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Baird",
+    "lensName": "Violet Gradient",
+    "frameColor": "Jet Black with Polished Gold",
+    "lensHue": "rose",
+    "cat": "sun",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:20:53.504Z"
+  },
+  "warby:balmer:VIOLET_GRADIENT": {
+    "id": "warby:balmer:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Balmer",
+    "lensName": "Violet Gradient",
+    "frameColor": "Cognac Tortoise",
+    "lensHue": "rose",
+    "cat": "sun",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:21:03.787Z"
+  },
+  "warby:barkley-lbf:VIOLET_GRADIENT": {
+    "id": "warby:barkley-lbf:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Barkley",
+    "lensName": "Violet Gradient",
+    "frameColor": "Antique Shale Fade",
+    "lensHue": "rose",
+    "cat": "tint",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:21:09.271Z"
+  },
+  "warby:beale:VIOLET_GRADIENT": {
+    "id": "warby:beale:VIOLET_GRADIENT",
+    "brand": "Warby Parker",
+    "product": "Beale",
+    "lensName": "Violet Gradient",
+    "frameColor": "Cognac Tortoise",
+    "lensHue": "rose",
+    "cat": "sun",
+    "hueHex": "#7560a8",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:21:16.921Z"
+  },
+  "moscot:18:2:matte-black": {
+    "id": "moscot:18:2:matte-black",
+    "brand": "MOSCOT",
+    "product": "BILLIK SUN",
+    "lensName": "Matte Black",
+    "frameColor": "Matte Black",
+    "lensHue": "green",
+    "cat": "sun",
+    "hueHex": "#171717",
+    "hueSource": "manual-override",
+    "updatedAt": "2026-06-28T15:22:02.155Z"
   }
 }

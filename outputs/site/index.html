@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sunglasses Lens Intelligence</title>
+<link rel="stylesheet" href="./app.css?v=hex-calibrated">
+</head>
+<body>
+<header class="top">
+  <div>
+    <p class="eyebrow">Lens color intelligence</p>
+    <h1>Sunglasses Tint, Gradient & Frame Pairing Explorer</h1>
+  </div>
+  <div class="topStats" id="topStats"></div>
+</header>
+<nav class="nav">
+  <button class="navBtn active" data-view="overview">Overview</button>
+  <button class="navBtn" data-view="hue">Hue Lab</button>
+  <button class="navBtn" data-view="pairing">Pairings</button>
+  <button class="navBtn" data-view="market">Market Signals</button>
+  <button class="navBtn" data-view="catalog">Catalog</button>
+  <button class="navBtn" data-view="data">Data Admin</button>
+</nav>
+<main>
+  <section id="overview" class="view active"></section>
+  <section id="hue" class="view"></section>
+  <section id="pairing" class="view"></section>
+  <section id="market" class="view"></section>
+  <section id="catalog" class="view"></section>
+  <section id="data" class="view"></section>
+</main>
+<template id="cardTemplate">
+  <figure class="productCard">
+    <img loading="lazy" alt="">
+    <figcaption></figcaption>
+  </figure>
+</template>
+<script type="module" src="./app.js?v=hex-calibrated"></script>
+</body>
+</html>

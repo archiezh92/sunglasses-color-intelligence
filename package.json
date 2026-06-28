@@ -1,0 +1,13 @@
+{
+  "name": "sunglasses-lens-intelligence",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "build:site": "node work/build_site.js",
+    "build:all": "node work/build_combined.js && node work/build_site.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

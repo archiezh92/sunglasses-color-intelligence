@@ -1,0 +1,3 @@
+display_name: Sunglasses Color Maintainer
+short_description: Maintain color catalog and insights.
+default_prompt: Update this sunglasses color intelligence site from new brand data or HTML, recalibrate colors, rebuild the site, and verify the output.

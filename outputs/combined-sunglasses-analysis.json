@@ -1,0 +1,1110 @@
+{
+  "generatedAt": "2026-06-28T02:42:23.377Z",
+  "totals": {
+    "records": 2706,
+    "classifiers": 281,
+    "brands": {
+      "Gentle Monster": 102,
+      "Meta AI Glasses": 44,
+      "Warby Parker": 1747,
+      "MOSCOT": 813
+    }
+  },
+  "hueSummary": [
+    {
+      "hue": "black",
+      "label": "Black",
+      "count": 93,
+      "brandCount": 3,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 78,
+        "tint": 15
+      },
+      "examples": [
+        "Black",
+        "Matte Black"
+      ]
+    },
+    {
+      "hue": "grey",
+      "label": "Grey / Smoke",
+      "count": 496,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 297,
+        "tint": 65,
+        "gradient": 134
+      },
+      "examples": [
+        "Silver",
+        "Gray",
+        "Transitions Grey",
+        "Polar Grey",
+        "Polar Gradient Graphite",
+        "Gradient Graphite Polarized",
+        "Grey",
+        "Grey Gradient",
+        "Grey Mirrored",
+        "Sage"
+      ]
+    },
+    {
+      "hue": "brown",
+      "label": "Brown",
+      "count": 570,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 340,
+        "tint": 109,
+        "gradient": 121
+      },
+      "examples": [
+        "Brown",
+        "Tortoise",
+        "Gold",
+        "Chocolate",
+        "Brown Gradient",
+        "Dark Amber",
+        "Transitions Brown",
+        "Brown Mirrored",
+        "Blonde",
+        "Tortoise with Cosmitan Brown Lens"
+      ]
+    },
+    {
+      "hue": "amber",
+      "label": "Amber / Tortoise",
+      "count": 153,
+      "brandCount": 3,
+      "brands": [
+        "Gentle Monster",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 6,
+        "tint": 131,
+        "gradient": 16
+      },
+      "examples": [
+        "White",
+        "Yellow Tint",
+        "Flesh",
+        "Candy Corn",
+        "Chestnut Fade",
+        "Citron/Tortoise",
+        "Goldenrod",
+        "Straw"
+      ]
+    },
+    {
+      "hue": "yellow",
+      "label": "Yellow",
+      "count": 38,
+      "brandCount": 1,
+      "brands": [
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 9,
+        "tint": 29
+      },
+      "examples": [
+        "Bamboo",
+        "Pastel Yellow",
+        "Mellow Yellow"
+      ]
+    },
+    {
+      "hue": "orange",
+      "label": "Orange",
+      "count": 16,
+      "brandCount": 1,
+      "brands": [
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 16
+      },
+      "examples": [
+        "Woodstock Orange"
+      ]
+    },
+    {
+      "hue": "rose",
+      "label": "Rose / Red",
+      "count": 339,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 150,
+        "tint": 160,
+        "gradient": 29
+      },
+      "examples": [
+        "Red",
+        "Meta Adventurer Large Merlot Transitions Ruby Lenses",
+        "Rosy Brown Tint",
+        "Rosewood Mirrored",
+        "Ruby",
+        "New York Rose",
+        "Cabernet",
+        "Big Apple Fade",
+        "Root Beer Fade",
+        "City Lights"
+      ]
+    },
+    {
+      "hue": "violet",
+      "label": "Violet",
+      "count": 127,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 9,
+        "sun": 3,
+        "gradient": 115
+      },
+      "examples": [
+        "Purple",
+        "Transitions Amethyst",
+        "Violet Gradient",
+        "Lavender"
+      ]
+    },
+    {
+      "hue": "blue",
+      "label": "Blue",
+      "count": 481,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 202,
+        "sun": 138,
+        "gradient": 141
+      },
+      "examples": [
+        "Blue",
+        "Transitions Sapphire",
+        "Light Blue Atlantic",
+        "Cerulean Blue Transitions",
+        "Blue Gradient",
+        "Blue Tint",
+        "Light Blue-Grey",
+        "Denim Blue",
+        "Celebrity Blue",
+        "Bel Air Blue"
+      ]
+    },
+    {
+      "hue": "teal",
+      "label": "Teal",
+      "count": 8,
+      "brandCount": 1,
+      "brands": [
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 8
+      },
+      "examples": [
+        "Turquoise"
+      ]
+    },
+    {
+      "hue": "green",
+      "label": "Green / G-15",
+      "count": 337,
+      "brandCount": 4,
+      "brands": [
+        "Gentle Monster",
+        "Meta AI Glasses",
+        "Warby Parker",
+        "MOSCOT"
+      ],
+      "cats": {
+        "tint": 25,
+        "sun": 186,
+        "gradient": 126
+      },
+      "examples": [
+        "Green",
+        "Transitions Graphite Green",
+        "G15 Green",
+        "Transitions Emerald",
+        "Green Gradient",
+        "Tortoise with G-15 Lens",
+        "Emerald",
+        "Limelight",
+        "Forest Wood",
+        "G-15 Fade"
+      ]
+    },
+    {
+      "hue": "olive",
+      "label": "Olive / Khaki",
+      "count": 26,
+      "brandCount": 1,
+      "brands": [
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 14,
+        "tint": 12
+      },
+      "examples": [
+        "Tobacco",
+        "Garnet Green",
+        "Khaki",
+        "Brown/Bamboo",
+        "Brown Bamboo",
+        "Olive Bark"
+      ]
+    },
+    {
+      "hue": "clear",
+      "label": "Clear / Crystal",
+      "count": 20,
+      "brandCount": 2,
+      "brands": [
+        "Meta AI Glasses",
+        "MOSCOT"
+      ],
+      "cats": {
+        "sun": 4,
+        "tint": 16
+      },
+      "examples": [
+        "Clear to G-15 Green Transitions",
+        "Clear to Sapphire Transitions",
+        "Clear to Amethyst Transitions",
+        "Crystal",
+        "Black Crystal",
+        "Crystal/Gold",
+        "Tortoise/Crystal"
+      ]
+    },
+    {
+      "hue": "unknown",
+      "label": "Unknown",
+      "count": 2,
+      "brandCount": 1,
+      "brands": [
+        "Meta AI Glasses"
+      ],
+      "cats": {
+        "sun": 2
+      },
+      "examples": [
+        "Transitions"
+      ]
+    }
+  ],
+  "frameByHue": {
+    "black": [
+      {
+        "frameFamily": "Black / Ink",
+        "count": 93,
+        "weighted": 1672,
+        "examples": [
+          "Black",
+          "Starfire Kylie Edition Classic Black Lenses",
+          "Matte Black"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Meta AI Glasses",
+          "MOSCOT"
+        ]
+      }
+    ],
+    "grey": [
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 111,
+        "weighted": 2425,
+        "examples": [
+          "Silver",
+          "Gray",
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver",
+          "Light Grey"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 118,
+        "weighted": 2157,
+        "examples": [
+          "Starfire Kylie Edition Classic Black",
+          "Adventurer Large Classic Black",
+          "Fury Classic Black",
+          "Ray-Ban Meta Wayfarer (Gen 2) Large Matte Black",
+          "Ray-Ban Meta Wayfarer (Gen 1), Matte Black / , Large",
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Black"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 110,
+        "weighted": 1592,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 44,
+        "weighted": 850,
+        "examples": [
+          "Fury Mahogany",
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Clear / Crystal",
+        "count": 49,
+        "weighted": 515,
+        "examples": [
+          "Ray-Ban Meta Headliner (Gen 2) Matte Transparent Peach",
+          "Umber Crystal",
+          "Palm Crystal",
+          "Crystal Moss",
+          "Eucalyptus Crystal with Riesling",
+          "Nori Crystal"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker"
+        ]
+      }
+    ],
+    "brown": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 256,
+        "weighted": 4040,
+        "examples": [
+          "Brown",
+          "Tortoise",
+          "Starfire Kylie Edition Dark Tortoise",
+          "Adventurer Large Classic Tortoise",
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 106,
+        "weighted": 1764,
+        "examples": [
+          "Adventurer Large Classic Black",
+          "Fury Classic Black",
+          "Black Walnut",
+          "Brushed Ink",
+          "Jet Black Matte with Polished Silver",
+          "Jet Black"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Gold / Warm Crystal",
+        "count": 51,
+        "weighted": 892,
+        "examples": [
+          "Gold",
+          "Fury Sandstone",
+          "Violet Magnolia with Polished Gold",
+          "Polished Gold",
+          "Apricot",
+          "Beach Glass With Polished Gold"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 21,
+        "weighted": 750,
+        "examples": [
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 38,
+        "weighted": 623,
+        "examples": [
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline",
+          "Amarena with Oak Barrel"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      }
+    ],
+    "amber": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 55,
+        "weighted": 1123,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 24,
+        "weighted": 627,
+        "examples": [
+          "White",
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 33,
+        "weighted": 541,
+        "examples": [
+          "Black Walnut",
+          "Brushed Ink",
+          "Jet Black Matte with Polished Silver",
+          "Jet Black",
+          "Jet Black with Polished Gold",
+          "Black Oak Tortoise with Polished Gold"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Clear / Crystal",
+        "count": 20,
+        "weighted": 313,
+        "examples": [
+          "Umber Crystal",
+          "Palm Crystal",
+          "Crystal Moss",
+          "Eucalyptus Crystal with Riesling",
+          "Nori Crystal",
+          "Crystal"
+        ],
+        "brands": [
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 7,
+        "weighted": 250,
+        "examples": [
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      }
+    ],
+    "yellow": [
+      {
+        "frameFamily": "Gold / Warm Crystal",
+        "count": 29,
+        "weighted": 716,
+        "examples": [
+          "Pastel Yellow",
+          "Mellow Yellow"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 9,
+        "weighted": 195,
+        "examples": [
+          "Bamboo"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      }
+    ],
+    "orange": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 16,
+        "weighted": 493,
+        "examples": [
+          "Woodstock Orange"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      }
+    ],
+    "rose": [
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 64,
+        "weighted": 2202,
+        "examples": [
+          "Meta Glasses Adventurer",
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Rose / Red / Purple",
+        "count": 78,
+        "weighted": 1764,
+        "examples": [
+          "Red",
+          "Rose Water",
+          "Layered Bordeaux",
+          "Indigo Rose",
+          "Beach Rose Matte",
+          "Ruby"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 67,
+        "weighted": 1066,
+        "examples": [
+          "Black Walnut",
+          "Brushed Ink",
+          "Jet Black Matte with Polished Silver",
+          "Jet Black",
+          "Jet Black with Polished Gold",
+          "Black Oak Tortoise with Polished Gold"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 71,
+        "weighted": 1017,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 14,
+        "weighted": 500,
+        "examples": [
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      }
+    ],
+    "violet": [
+      {
+        "frameFamily": "Black / Ink",
+        "count": 34,
+        "weighted": 593,
+        "examples": [
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Black",
+          "Black Walnut",
+          "Brushed Ink",
+          "Jet Black Matte with Polished Silver",
+          "Jet Black",
+          "Jet Black with Polished Gold"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 35,
+        "weighted": 498,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Rose / Red / Purple",
+        "count": 17,
+        "weighted": 378,
+        "examples": [
+          "Purple",
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Mystic Violet",
+          "Rose Water",
+          "Layered Bordeaux",
+          "Indigo Rose",
+          "Beach Rose Matte"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 7,
+        "weighted": 250,
+        "examples": [
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 12,
+        "weighted": 207,
+        "examples": [
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline",
+          "Amarena with Oak Barrel"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      }
+    ],
+    "blue": [
+      {
+        "frameFamily": "Blue / Navy",
+        "count": 109,
+        "weighted": 2305,
+        "examples": [
+          "Blue",
+          "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Cosmic Blue",
+          "Stone Blue",
+          "Denim Blue",
+          "Celebrity Blue",
+          "Bel Air Blue"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 111,
+        "weighted": 1831,
+        "examples": [
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
+          "Ray-Ban Meta Headliner (Gen 2) Low Bridge Fit Shiny Black",
+          "Black Walnut",
+          "Brushed Ink",
+          "Jet Black Matte with Polished Silver",
+          "Jet Black"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 107,
+        "weighted": 1516,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 47,
+        "weighted": 1097,
+        "examples": [
+          "Adventurer Large Linen",
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 25,
+        "weighted": 918,
+        "examples": [
+          "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Transparent Grey",
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Chalky Gray",
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver",
+          "Light Blue-Grey"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      }
+    ],
+    "teal": [
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 8,
+        "weighted": 197,
+        "examples": [
+          "Turquoise"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      }
+    ],
+    "green": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 97,
+        "weighted": 1631,
+        "examples": [
+          "Toffee Tortoise",
+          "Aventurine Tortoise with Polished Gold",
+          "Ancho Tortoise",
+          "Garnet Tortoise",
+          "Cinnamon Tortoise",
+          "Confetti Tortoise"
+        ],
+        "brands": [
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 75,
+        "weighted": 1490,
+        "examples": [
+          "Ray-Ban Meta Wayfarer (Gen 2) Large Shiny Black",
+          "Ray-Ban Meta Wayfarer (Gen 1), Shiny Black / , Large",
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
+          "Ray-Ban Meta Skyler (Gen 2) Shiny Black",
+          "Ray-Ban Meta Headliner (Gen 2) Low Bridge Fit Shiny Black",
+          "Ray-Ban Meta Headliner (Gen 2) Shiny Black"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 60,
+        "weighted": 1461,
+        "examples": [
+          "Fury Mahogany",
+          "Striped Sassafras",
+          "Poblano",
+          "English Oak Matte",
+          "Balsam Matte",
+          "Praline"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 15,
+        "weighted": 550,
+        "examples": [
+          "Ray-Ban Meta Headliner (Gen 2) Shiny Asteroid Grey",
+          "Antique Shale Fade",
+          "Licorice Crystal with Antique Silver",
+          "Antique Silver"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "Warby Parker"
+        ]
+      },
+      {
+        "frameFamily": "Green / Olive",
+        "count": 33,
+        "weighted": 409,
+        "examples": [
+          "Green",
+          "Olive with Riesling",
+          "Emerald",
+          "Dark Green",
+          "Pine",
+          "Olive Green"
+        ],
+        "brands": [
+          "Gentle Monster",
+          "Warby Parker",
+          "MOSCOT"
+        ]
+      }
+    ],
+    "olive": [
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 14,
+        "weighted": 272,
+        "examples": [
+          "Tobacco",
+          "Brown/Bamboo",
+          "Brown Bamboo",
+          "Olive Bark"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Green / Olive",
+        "count": 12,
+        "weighted": 248,
+        "examples": [
+          "Garnet Green",
+          "Khaki"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      }
+    ],
+    "clear": [
+      {
+        "frameFamily": "Clear / Crystal",
+        "count": 14,
+        "weighted": 362,
+        "examples": [
+          "Crystal"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Black / Ink",
+        "count": 3,
+        "weighted": 167,
+        "examples": [
+          "Ray-Ban Meta Wayfarer (Gen 1), Matte Black / , Large",
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Black / , Standard",
+          "Black Crystal"
+        ],
+        "brands": [
+          "Meta AI Glasses",
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Grey / Silver",
+        "count": 1,
+        "weighted": 53,
+        "examples": [
+          "Ray-Ban Meta Skyler (Gen 1), Shiny Chalky Gray / , Standard"
+        ],
+        "brands": [
+          "Meta AI Glasses"
+        ]
+      },
+      {
+        "frameFamily": "Gold / Warm Crystal",
+        "count": 1,
+        "weighted": 34,
+        "examples": [
+          "Crystal/Gold"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      },
+      {
+        "frameFamily": "Tortoise / Brown",
+        "count": 1,
+        "weighted": 26,
+        "examples": [
+          "Tortoise/Crystal"
+        ],
+        "brands": [
+          "MOSCOT"
+        ]
+      }
+    ],
+    "unknown": [
+      {
+        "frameFamily": "Other / Mixed",
+        "count": 2,
+        "weighted": 94,
+        "examples": [
+          "Ray-Ban Display"
+        ],
+        "brands": [
+          "Meta AI Glasses"
+        ]
+      }
+    ]
+  }
+}

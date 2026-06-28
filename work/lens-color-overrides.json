@@ -120,11 +120,11 @@
     "product": "Franny",
     "lensName": "Violet Gradient",
     "frameColor": "Toffee Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:14.391Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:elio:VIOLET_GRADIENT": {
     "id": "warby:elio:VIOLET_GRADIENT",
@@ -132,11 +132,11 @@
     "product": "Elio",
     "lensName": "Violet Gradient",
     "frameColor": "Black Walnut",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:15.225Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:brimmer:VIOLET_GRADIENT": {
     "id": "warby:brimmer:VIOLET_GRADIENT",
@@ -144,11 +144,11 @@
     "product": "Brimmer",
     "lensName": "Violet Gradient",
     "frameColor": "Black Walnut",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:16.124Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:barkley:VIOLET_GRADIENT": {
     "id": "warby:barkley:VIOLET_GRADIENT",
@@ -156,11 +156,11 @@
     "product": "Barkley",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:33.074Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:esme:VIOLET_GRADIENT": {
     "id": "warby:esme:VIOLET_GRADIENT",
@@ -168,11 +168,11 @@
     "product": "Esme",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise with Polished Gold",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:33.941Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:fletcher:VIOLET_GRADIENT": {
     "id": "warby:fletcher:VIOLET_GRADIENT",
@@ -180,11 +180,11 @@
     "product": "Fletcher",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:38.024Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:raider:VIOLET_GRADIENT": {
     "id": "warby:raider:VIOLET_GRADIENT",
@@ -192,11 +192,11 @@
     "product": "Raider",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T14:59:48.757Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "meta:ray-ban-meta-skyler-gen-2-shiny-mystic-violet-transitions-amethyst-lenses:31": {
     "id": "meta:ray-ban-meta-skyler-gen-2-shiny-mystic-violet-transitions-amethyst-lenses:31",
@@ -223,11 +223,11 @@
     "product": "Durand",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:00.591Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:percey:VIOLET_GRADIENT": {
     "id": "warby:percey:VIOLET_GRADIENT",
@@ -235,11 +235,11 @@
     "product": "Percey",
     "lensName": "Violet Gradient",
     "frameColor": "Striped Sassafras",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:07.591Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:abe:VIOLET_GRADIENT": {
     "id": "warby:abe:VIOLET_GRADIENT",
@@ -247,11 +247,11 @@
     "product": "Abe",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:12.241Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:adair:VIOLET_GRADIENT": {
     "id": "warby:adair:VIOLET_GRADIENT",
@@ -259,11 +259,11 @@
     "product": "Adair",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal with Antique Silver",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:19.574Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:aidy:VIOLET_GRADIENT": {
     "id": "warby:aidy:VIOLET_GRADIENT",
@@ -271,11 +271,11 @@
     "product": "Aidy",
     "lensName": "Violet Gradient",
     "frameColor": "Poblano",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:00:22.441Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:brimmer:GREEN": {
     "id": "warby:brimmer:GREEN",
@@ -784,11 +784,11 @@
     "product": "Millie",
     "lensName": "Violet Gradient",
     "frameColor": "Ancho Tortoise",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:19:53.270Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:alvin:VIOLET_GRADIENT": {
     "id": "warby:alvin:VIOLET_GRADIENT",
@@ -796,11 +796,11 @@
     "product": "Alvin",
     "lensName": "Violet Gradient",
     "frameColor": "English Oak Matte",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:19:58.404Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:ames:VIOLET_GRADIENT": {
     "id": "warby:ames:VIOLET_GRADIENT",
@@ -808,11 +808,11 @@
     "product": "Ames",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte with Polished Silver",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:05.071Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:aram:VIOLET_GRADIENT": {
     "id": "warby:aram:VIOLET_GRADIENT",
@@ -820,11 +820,11 @@
     "product": "Aram",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:19.604Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:aubrey:VIOLET_GRADIENT": {
     "id": "warby:aubrey:VIOLET_GRADIENT",
@@ -832,11 +832,11 @@
     "product": "Aubrey",
     "lensName": "Violet Gradient",
     "frameColor": "Garnet Tortoise",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:26.004Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:auggie:VIOLET_GRADIENT": {
     "id": "warby:auggie:VIOLET_GRADIENT",
@@ -844,11 +844,11 @@
     "product": "Auggie",
     "lensName": "Violet Gradient",
     "frameColor": "Cinnamon Tortoise",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:32.670Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:augusta:VIOLET_GRADIENT": {
     "id": "warby:augusta:VIOLET_GRADIENT",
@@ -856,11 +856,11 @@
     "product": "Augusta",
     "lensName": "Violet Gradient",
     "frameColor": "Confetti Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:39.437Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:babs:VIOLET_GRADIENT": {
     "id": "warby:babs:VIOLET_GRADIENT",
@@ -868,11 +868,11 @@
     "product": "Babs",
     "lensName": "Violet Gradient",
     "frameColor": "Layered Bordeaux",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:45.320Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:baird:VIOLET_GRADIENT": {
     "id": "warby:baird:VIOLET_GRADIENT",
@@ -880,11 +880,11 @@
     "product": "Baird",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black with Polished Gold",
-    "lensHue": "rose",
-    "cat": "sun",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:20:53.504Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:balmer:VIOLET_GRADIENT": {
     "id": "warby:balmer:VIOLET_GRADIENT",
@@ -892,11 +892,11 @@
     "product": "Balmer",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "rose",
-    "cat": "sun",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:21:03.787Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:barkley-lbf:VIOLET_GRADIENT": {
     "id": "warby:barkley-lbf:VIOLET_GRADIENT",
@@ -904,11 +904,11 @@
     "product": "Barkley",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:21:09.271Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:beale:VIOLET_GRADIENT": {
     "id": "warby:beale:VIOLET_GRADIENT",
@@ -916,11 +916,11 @@
     "product": "Beale",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "rose",
-    "cat": "sun",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
-    "hueSource": "manual-override",
-    "updatedAt": "2026-06-28T15:21:16.921Z"
+    "hueSource": "reviewed-correction",
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "moscot:18:2:matte-black": {
     "id": "moscot:18:2:matte-black",
@@ -940,11 +940,11 @@
     "product": "Aubrey",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:14.194Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:bette:VIOLET_GRADIENT": {
     "id": "warby:bette:VIOLET_GRADIENT",
@@ -952,11 +952,11 @@
     "product": "Bette",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:19.711Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:betz:VIOLET_GRADIENT": {
     "id": "warby:betz:VIOLET_GRADIENT",
@@ -964,11 +964,11 @@
     "product": "Betz",
     "lensName": "Violet Gradient",
     "frameColor": "Balsam Matte",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:24.943Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:bix:VIOLET_GRADIENT": {
     "id": "warby:bix:VIOLET_GRADIENT",
@@ -976,11 +976,11 @@
     "product": "Bix",
     "lensName": "Violet Gradient",
     "frameColor": "Umber Crystal",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:28.027Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:blaise:VIOLET_GRADIENT": {
     "id": "warby:blaise:VIOLET_GRADIENT",
@@ -988,11 +988,11 @@
     "product": "Blaise",
     "lensName": "Violet Gradient",
     "frameColor": "Palm Crystal",
-    "lensHue": "rose",
-    "cat": "tint",
+    "lensHue": "violet",
+    "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:33.127Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:blount:VIOLET_GRADIENT": {
     "id": "warby:blount:VIOLET_GRADIENT",
@@ -1000,11 +1000,11 @@
     "product": "Blount",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Silver",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:36.494Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:boaz:VIOLET_GRADIENT": {
     "id": "warby:boaz:VIOLET_GRADIENT",
@@ -1012,11 +1012,11 @@
     "product": "Boaz",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:41.627Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:bodie:VIOLET_GRADIENT": {
     "id": "warby:bodie:VIOLET_GRADIENT",
@@ -1024,11 +1024,11 @@
     "product": "Bodie",
     "lensName": "Violet Gradient",
     "frameColor": "Rye Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:44.444Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:boggs:VIOLET_GRADIENT": {
     "id": "warby:boggs:VIOLET_GRADIENT",
@@ -1036,11 +1036,11 @@
     "product": "Boggs",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:46.594Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:bronte:VIOLET_GRADIENT": {
     "id": "warby:bronte:VIOLET_GRADIENT",
@@ -1048,11 +1048,11 @@
     "product": "Bronte",
     "lensName": "Violet Gradient",
     "frameColor": "Crystal Moss",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:48.544Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:butler:VIOLET_GRADIENT": {
     "id": "warby:butler:VIOLET_GRADIENT",
@@ -1060,11 +1060,11 @@
     "product": "Butler",
     "lensName": "Violet Gradient",
     "frameColor": "Butterscotch Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:51.978Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:callum:VIOLET_GRADIENT": {
     "id": "warby:callum:VIOLET_GRADIENT",
@@ -1072,11 +1072,11 @@
     "product": "Callum",
     "lensName": "Violet Gradient",
     "frameColor": "Balsam Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:33:54.460Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:carmel:VIOLET_GRADIENT": {
     "id": "warby:carmel:VIOLET_GRADIENT",
@@ -1084,11 +1084,11 @@
     "product": "Carmel",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:carson:VIOLET_GRADIENT": {
     "id": "warby:carson:VIOLET_GRADIENT",
@@ -1096,11 +1096,11 @@
     "product": "Carson",
     "lensName": "Violet Gradient",
     "frameColor": "Cinnamon Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:chava:VIOLET_GRADIENT": {
     "id": "warby:chava:VIOLET_GRADIENT",
@@ -1108,11 +1108,11 @@
     "product": "Chava",
     "lensName": "Violet Gradient",
     "frameColor": "Eucalyptus Crystal with Riesling",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:cooper:VIOLET_GRADIENT": {
     "id": "warby:cooper:VIOLET_GRADIENT",
@@ -1120,11 +1120,11 @@
     "product": "Cooper",
     "lensName": "Violet Gradient",
     "frameColor": "Black Oak Tortoise with Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:cowley:VIOLET_GRADIENT": {
     "id": "warby:cowley:VIOLET_GRADIENT",
@@ -1132,11 +1132,11 @@
     "product": "Cowley",
     "lensName": "Violet Gradient",
     "frameColor": "Nori Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:downing:VIOLET_GRADIENT": {
     "id": "warby:downing:VIOLET_GRADIENT",
@@ -1144,11 +1144,11 @@
     "product": "Downing",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:drew:VIOLET_GRADIENT": {
     "id": "warby:drew:VIOLET_GRADIENT",
@@ -1156,11 +1156,11 @@
     "product": "Drew",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:durand-lbf:VIOLET_GRADIENT": {
     "id": "warby:durand-lbf:VIOLET_GRADIENT",
@@ -1168,11 +1168,11 @@
     "product": "Durand",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:esme-lbf:VIOLET_GRADIENT": {
     "id": "warby:esme-lbf:VIOLET_GRADIENT",
@@ -1180,11 +1180,11 @@
     "product": "Esme",
     "lensName": "Violet Gradient",
     "frameColor": "Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:estrada:VIOLET_GRADIENT": {
     "id": "warby:estrada:VIOLET_GRADIENT",
@@ -1192,11 +1192,11 @@
     "product": "Estrada",
     "lensName": "Violet Gradient",
     "frameColor": "Prickly Pear Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:fletcher-lbf:VIOLET_GRADIENT": {
     "id": "warby:fletcher-lbf:VIOLET_GRADIENT",
@@ -1204,11 +1204,11 @@
     "product": "Fletcher",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:gael:VIOLET_GRADIENT": {
     "id": "warby:gael:VIOLET_GRADIENT",
@@ -1216,11 +1216,11 @@
     "product": "Gael",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:gemma:VIOLET_GRADIENT": {
     "id": "warby:gemma:VIOLET_GRADIENT",
@@ -1228,11 +1228,11 @@
     "product": "Gemma",
     "lensName": "Violet Gradient",
     "frameColor": "Adobe Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:gideon:VIOLET_GRADIENT": {
     "id": "warby:gideon:VIOLET_GRADIENT",
@@ -1240,11 +1240,11 @@
     "product": "Gideon",
     "lensName": "Violet Gradient",
     "frameColor": "Green Tea Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:gillian:VIOLET_GRADIENT": {
     "id": "warby:gillian:VIOLET_GRADIENT",
@@ -1252,11 +1252,11 @@
     "product": "Gillian",
     "lensName": "Violet Gradient",
     "frameColor": "Confetti Tortoise with Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:gooding:VIOLET_GRADIENT": {
     "id": "warby:gooding:VIOLET_GRADIENT",
@@ -1264,11 +1264,11 @@
     "product": "Gooding",
     "lensName": "Violet Gradient",
     "frameColor": "Seaweed Crystal with Cognac Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:griffin:VIOLET_GRADIENT": {
     "id": "warby:griffin:VIOLET_GRADIENT",
@@ -1276,11 +1276,11 @@
     "product": "Griffin",
     "lensName": "Violet Gradient",
     "frameColor": "Burnt Honeycomb Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:harris:VIOLET_GRADIENT": {
     "id": "warby:harris:VIOLET_GRADIENT",
@@ -1288,11 +1288,11 @@
     "product": "Harris",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:harris-lbf:VIOLET_GRADIENT": {
     "id": "warby:harris-lbf:VIOLET_GRADIENT",
@@ -1300,11 +1300,11 @@
     "product": "Harris",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:haskell:VIOLET_GRADIENT": {
     "id": "warby:haskell:VIOLET_GRADIENT",
@@ -1312,11 +1312,11 @@
     "product": "Haskell",
     "lensName": "Violet Gradient",
     "frameColor": "Chestnut Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:hatcher:VIOLET_GRADIENT": {
     "id": "warby:hatcher:VIOLET_GRADIENT",
@@ -1324,11 +1324,11 @@
     "product": "Hatcher",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:hayes:VIOLET_GRADIENT": {
     "id": "warby:hayes:VIOLET_GRADIENT",
@@ -1336,11 +1336,11 @@
     "product": "Hayes",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:hayes-lbf:VIOLET_GRADIENT": {
     "id": "warby:hayes-lbf:VIOLET_GRADIENT",
@@ -1348,11 +1348,11 @@
     "product": "Hayes",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:hollis:VIOLET_GRADIENT": {
     "id": "warby:hollis:VIOLET_GRADIENT",
@@ -1360,11 +1360,11 @@
     "product": "Hollis",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:janelle:VIOLET_GRADIENT": {
     "id": "warby:janelle:VIOLET_GRADIENT",
@@ -1372,11 +1372,11 @@
     "product": "Janelle",
     "lensName": "Violet Gradient",
     "frameColor": "Praline",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:jeanette:VIOLET_GRADIENT": {
     "id": "warby:jeanette:VIOLET_GRADIENT",
@@ -1384,11 +1384,11 @@
     "product": "Jeanette",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:jenney:VIOLET_GRADIENT": {
     "id": "warby:jenney:VIOLET_GRADIENT",
@@ -1396,11 +1396,11 @@
     "product": "Jenney",
     "lensName": "Violet Gradient",
     "frameColor": "Amarena with Oak Barrel",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:kadri:VIOLET_GRADIENT": {
     "id": "warby:kadri:VIOLET_GRADIENT",
@@ -1408,11 +1408,11 @@
     "product": "Kadri",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:keiko:VIOLET_GRADIENT": {
     "id": "warby:keiko:VIOLET_GRADIENT",
@@ -1420,11 +1420,11 @@
     "product": "Keiko",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:kemi:VIOLET_GRADIENT": {
     "id": "warby:kemi:VIOLET_GRADIENT",
@@ -1432,11 +1432,11 @@
     "product": "Kemi",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:kian:VIOLET_GRADIENT": {
     "id": "warby:kian:VIOLET_GRADIENT",
@@ -1444,11 +1444,11 @@
     "product": "Kian",
     "lensName": "Violet Gradient",
     "frameColor": "Black Oak Tortoise with Brushed Ink",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:kiran:VIOLET_GRADIENT": {
     "id": "warby:kiran:VIOLET_GRADIENT",
@@ -1456,11 +1456,11 @@
     "product": "Kiran",
     "lensName": "Violet Gradient",
     "frameColor": "English Oak",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:latrell:VIOLET_GRADIENT": {
     "id": "warby:latrell:VIOLET_GRADIENT",
@@ -1468,11 +1468,11 @@
     "product": "Latrell",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:laurel:VIOLET_GRADIENT": {
     "id": "warby:laurel:VIOLET_GRADIENT",
@@ -1480,11 +1480,11 @@
     "product": "Laurel",
     "lensName": "Violet Gradient",
     "frameColor": "Elderflower Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:liana:VIOLET_GRADIENT": {
     "id": "warby:liana:VIOLET_GRADIENT",
@@ -1492,11 +1492,11 @@
     "product": "Liana",
     "lensName": "Violet Gradient",
     "frameColor": "Stone Blue",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:lottie:VIOLET_GRADIENT": {
     "id": "warby:lottie:VIOLET_GRADIENT",
@@ -1504,11 +1504,11 @@
     "product": "Lottie",
     "lensName": "Violet Gradient",
     "frameColor": "Ganache",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:lucille:VIOLET_GRADIENT": {
     "id": "warby:lucille:VIOLET_GRADIENT",
@@ -1516,11 +1516,11 @@
     "product": "Lucille",
     "lensName": "Violet Gradient",
     "frameColor": "Ristretto Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:maren:VIOLET_GRADIENT": {
     "id": "warby:maren:VIOLET_GRADIENT",
@@ -1528,11 +1528,11 @@
     "product": "Maren",
     "lensName": "Violet Gradient",
     "frameColor": "Violet Magnolia with Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:masha:VIOLET_GRADIENT": {
     "id": "warby:masha:VIOLET_GRADIENT",
@@ -1540,11 +1540,11 @@
     "product": "Masha",
     "lensName": "Violet Gradient",
     "frameColor": "Black Currant Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:merrick:VIOLET_GRADIENT": {
     "id": "warby:merrick:VIOLET_GRADIENT",
@@ -1552,11 +1552,11 @@
     "product": "Merrick",
     "lensName": "Violet Gradient",
     "frameColor": "Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:mimi:VIOLET_GRADIENT": {
     "id": "warby:mimi:VIOLET_GRADIENT",
@@ -1564,11 +1564,11 @@
     "product": "Mimi",
     "lensName": "Violet Gradient",
     "frameColor": "Ristretto Tortoise with Marbled Opal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:nancy:VIOLET_GRADIENT": {
     "id": "warby:nancy:VIOLET_GRADIENT",
@@ -1576,11 +1576,11 @@
     "product": "Nancy",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:nancy-lbf:VIOLET_GRADIENT": {
     "id": "warby:nancy-lbf:VIOLET_GRADIENT",
@@ -1588,11 +1588,11 @@
     "product": "Nancy",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:natasha:VIOLET_GRADIENT": {
     "id": "warby:natasha:VIOLET_GRADIENT",
@@ -1600,11 +1600,11 @@
     "product": "Natasha",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise with Riesling",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:nemsey:VIOLET_GRADIENT": {
     "id": "warby:nemsey:VIOLET_GRADIENT",
@@ -1612,11 +1612,11 @@
     "product": "Nemsey",
     "lensName": "Violet Gradient",
     "frameColor": "Cattail Tortoise Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:newman:VIOLET_GRADIENT": {
     "id": "warby:newman:VIOLET_GRADIENT",
@@ -1624,11 +1624,11 @@
     "product": "Newman",
     "lensName": "Violet Gradient",
     "frameColor": "Shoreline",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:nida:VIOLET_GRADIENT": {
     "id": "warby:nida:VIOLET_GRADIENT",
@@ -1636,11 +1636,11 @@
     "product": "Nida",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black with Stone Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:omar:VIOLET_GRADIENT": {
     "id": "warby:omar:VIOLET_GRADIENT",
@@ -1648,11 +1648,11 @@
     "product": "Omar",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:percey-lbf:VIOLET_GRADIENT": {
     "id": "warby:percey-lbf:VIOLET_GRADIENT",
@@ -1660,11 +1660,11 @@
     "product": "Percey",
     "lensName": "Violet Gradient",
     "frameColor": "Striped Sassafras",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:perkins:VIOLET_GRADIENT": {
     "id": "warby:perkins:VIOLET_GRADIENT",
@@ -1672,11 +1672,11 @@
     "product": "Perkins",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:perkins-lbf:VIOLET_GRADIENT": {
     "id": "warby:perkins-lbf:VIOLET_GRADIENT",
@@ -1684,11 +1684,11 @@
     "product": "Perkins",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rachel:VIOLET_GRADIENT": {
     "id": "warby:rachel:VIOLET_GRADIENT",
@@ -1696,11 +1696,11 @@
     "product": "Rachel",
     "lensName": "Violet Gradient",
     "frameColor": "Mesquite Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rafael:VIOLET_GRADIENT": {
     "id": "warby:rafael:VIOLET_GRADIENT",
@@ -1708,11 +1708,11 @@
     "product": "Rafael",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rhea:VIOLET_GRADIENT": {
     "id": "warby:rhea:VIOLET_GRADIENT",
@@ -1720,11 +1720,11 @@
     "product": "Rhea",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rhea-lbf:VIOLET_GRADIENT": {
     "id": "warby:rhea-lbf:VIOLET_GRADIENT",
@@ -1732,11 +1732,11 @@
     "product": "Rhea",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:richie:VIOLET_GRADIENT": {
     "id": "warby:richie:VIOLET_GRADIENT",
@@ -1744,11 +1744,11 @@
     "product": "Richie",
     "lensName": "Violet Gradient",
     "frameColor": "Raven Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:roosevelt:VIOLET_GRADIENT": {
     "id": "warby:roosevelt:VIOLET_GRADIENT",
@@ -1756,11 +1756,11 @@
     "product": "Roosevelt",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rosie:VIOLET_GRADIENT": {
     "id": "warby:rosie:VIOLET_GRADIENT",
@@ -1768,11 +1768,11 @@
     "product": "Rosie",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:rustin:VIOLET_GRADIENT": {
     "id": "warby:rustin:VIOLET_GRADIENT",
@@ -1780,11 +1780,11 @@
     "product": "Rustin",
     "lensName": "Violet Gradient",
     "frameColor": "Olive with Riesling",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:samira:VIOLET_GRADIENT": {
     "id": "warby:samira:VIOLET_GRADIENT",
@@ -1792,11 +1792,11 @@
     "product": "Samira",
     "lensName": "Violet Gradient",
     "frameColor": "Indigo Rose",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:sonia:VIOLET_GRADIENT": {
     "id": "warby:sonia:VIOLET_GRADIENT",
@@ -1804,11 +1804,11 @@
     "product": "Sonia",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise Fade",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:sutton:VIOLET_GRADIENT": {
     "id": "warby:sutton:VIOLET_GRADIENT",
@@ -1816,11 +1816,11 @@
     "product": "Sutton",
     "lensName": "Violet Gradient",
     "frameColor": "Azure Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:sutton-lbf:VIOLET_GRADIENT": {
     "id": "warby:sutton-lbf:VIOLET_GRADIENT",
@@ -1828,11 +1828,11 @@
     "product": "Sutton",
     "lensName": "Violet Gradient",
     "frameColor": "Walnut Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:sydney:VIOLET_GRADIENT": {
     "id": "warby:sydney:VIOLET_GRADIENT",
@@ -1840,11 +1840,11 @@
     "product": "Sydney",
     "lensName": "Violet Gradient",
     "frameColor": "Chai Crystal Fade",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:tacha:VIOLET_GRADIENT": {
     "id": "warby:tacha:VIOLET_GRADIENT",
@@ -1852,11 +1852,11 @@
     "product": "Tacha",
     "lensName": "Violet Gradient",
     "frameColor": "Beach Rose Matte",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:tal:VIOLET_GRADIENT": {
     "id": "warby:tal:VIOLET_GRADIENT",
@@ -1864,11 +1864,11 @@
     "product": "Tal",
     "lensName": "Violet Gradient",
     "frameColor": "Maritime Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:tilley:VIOLET_GRADIENT": {
     "id": "warby:tilley:VIOLET_GRADIENT",
@@ -1876,11 +1876,11 @@
     "product": "Tilley",
     "lensName": "Violet Gradient",
     "frameColor": "Smoky Pearl Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:tobias:VIOLET_GRADIENT": {
     "id": "warby:tobias:VIOLET_GRADIENT",
@@ -1888,11 +1888,11 @@
     "product": "Tobias",
     "lensName": "Violet Gradient",
     "frameColor": "Laguna Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:toddy:VIOLET_GRADIENT": {
     "id": "warby:toddy:VIOLET_GRADIENT",
@@ -1900,11 +1900,11 @@
     "product": "Toddy",
     "lensName": "Violet Gradient",
     "frameColor": "Azure Crystal with Oak Barrel",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:toni:VIOLET_GRADIENT": {
     "id": "warby:toni:VIOLET_GRADIENT",
@@ -1912,11 +1912,11 @@
     "product": "Toni",
     "lensName": "Violet Gradient",
     "frameColor": "Cider Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:topper:VIOLET_GRADIENT": {
     "id": "warby:topper:VIOLET_GRADIENT",
@@ -1924,11 +1924,11 @@
     "product": "Topper",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:tova:VIOLET_GRADIENT": {
     "id": "warby:tova:VIOLET_GRADIENT",
@@ -1936,11 +1936,11 @@
     "product": "Tova",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:vela:VIOLET_GRADIENT": {
     "id": "warby:vela:VIOLET_GRADIENT",
@@ -1948,11 +1948,11 @@
     "product": "Vela",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise with Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:vilma:VIOLET_GRADIENT": {
     "id": "warby:vilma:VIOLET_GRADIENT",
@@ -1960,11 +1960,11 @@
     "product": "Vilma",
     "lensName": "Violet Gradient",
     "frameColor": "Yuzu Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:waller:VIOLET_GRADIENT": {
     "id": "warby:waller:VIOLET_GRADIENT",
@@ -1972,11 +1972,11 @@
     "product": "Waller",
     "lensName": "Violet Gradient",
     "frameColor": "Apricot",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:willetta:VIOLET_GRADIENT": {
     "id": "warby:willetta:VIOLET_GRADIENT",
@@ -1984,11 +1984,11 @@
     "product": "Willetta",
     "lensName": "Violet Gradient",
     "frameColor": "Beach Glass With Polished Gold",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:wright:VIOLET_GRADIENT": {
     "id": "warby:wright:VIOLET_GRADIENT",
@@ -1996,11 +1996,11 @@
     "product": "Wright",
     "lensName": "Violet Gradient",
     "frameColor": "Nutmeg Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:wright-lbf:VIOLET_GRADIENT": {
     "id": "warby:wright-lbf:VIOLET_GRADIENT",
@@ -2008,11 +2008,11 @@
     "product": "Wright",
     "lensName": "Violet Gradient",
     "frameColor": "Walnut Tortoise",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "warby:zoya:VIOLET_GRADIENT": {
     "id": "warby:zoya:VIOLET_GRADIENT",
@@ -2020,11 +2020,11 @@
     "product": "Zoya",
     "lensName": "Violet Gradient",
     "frameColor": "Emerald Crystal",
-    "lensHue": "rose",
+    "lensHue": "violet",
     "cat": "gradient",
     "hueHex": "#7560a8",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T15:55:50.121Z"
+    "updatedAt": "2026-06-28T23:21:56Z"
   },
   "moscot:1:5:brown-ash": {
     "id": "moscot:1:5:brown-ash",

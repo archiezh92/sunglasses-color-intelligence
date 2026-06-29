@@ -120,11 +120,12 @@
     "product": "Franny",
     "lensName": "Violet Gradient",
     "frameColor": "Toffee Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:elio:VIOLET_GRADIENT": {
     "id": "warby:elio:VIOLET_GRADIENT",
@@ -132,11 +133,12 @@
     "product": "Elio",
     "lensName": "Violet Gradient",
     "frameColor": "Black Walnut",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:brimmer:VIOLET_GRADIENT": {
     "id": "warby:brimmer:VIOLET_GRADIENT",
@@ -144,11 +146,12 @@
     "product": "Brimmer",
     "lensName": "Violet Gradient",
     "frameColor": "Black Walnut",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:barkley:VIOLET_GRADIENT": {
     "id": "warby:barkley:VIOLET_GRADIENT",
@@ -156,11 +159,12 @@
     "product": "Barkley",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:esme:VIOLET_GRADIENT": {
     "id": "warby:esme:VIOLET_GRADIENT",
@@ -168,11 +172,12 @@
     "product": "Esme",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:fletcher:VIOLET_GRADIENT": {
     "id": "warby:fletcher:VIOLET_GRADIENT",
@@ -180,11 +185,12 @@
     "product": "Fletcher",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:raider:VIOLET_GRADIENT": {
     "id": "warby:raider:VIOLET_GRADIENT",
@@ -192,11 +198,12 @@
     "product": "Raider",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "meta:ray-ban-meta-skyler-gen-2-shiny-mystic-violet-transitions-amethyst-lenses:31": {
     "id": "meta:ray-ban-meta-skyler-gen-2-shiny-mystic-violet-transitions-amethyst-lenses:31",
@@ -223,11 +230,12 @@
     "product": "Durand",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:percey:VIOLET_GRADIENT": {
     "id": "warby:percey:VIOLET_GRADIENT",
@@ -235,11 +243,12 @@
     "product": "Percey",
     "lensName": "Violet Gradient",
     "frameColor": "Striped Sassafras",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:abe:VIOLET_GRADIENT": {
     "id": "warby:abe:VIOLET_GRADIENT",
@@ -247,11 +256,12 @@
     "product": "Abe",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:adair:VIOLET_GRADIENT": {
     "id": "warby:adair:VIOLET_GRADIENT",
@@ -259,11 +269,12 @@
     "product": "Adair",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal with Antique Silver",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:aidy:VIOLET_GRADIENT": {
     "id": "warby:aidy:VIOLET_GRADIENT",
@@ -271,11 +282,12 @@
     "product": "Aidy",
     "lensName": "Violet Gradient",
     "frameColor": "Poblano",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:brimmer:GREEN": {
     "id": "warby:brimmer:GREEN",
@@ -769,11 +781,12 @@
     "product": "Millie",
     "lensName": "Violet Gradient",
     "frameColor": "Ancho Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:alvin:VIOLET_GRADIENT": {
     "id": "warby:alvin:VIOLET_GRADIENT",
@@ -781,11 +794,12 @@
     "product": "Alvin",
     "lensName": "Violet Gradient",
     "frameColor": "English Oak Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:ames:VIOLET_GRADIENT": {
     "id": "warby:ames:VIOLET_GRADIENT",
@@ -793,11 +807,12 @@
     "product": "Ames",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte with Polished Silver",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:aram:VIOLET_GRADIENT": {
     "id": "warby:aram:VIOLET_GRADIENT",
@@ -805,11 +820,12 @@
     "product": "Aram",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:aubrey:VIOLET_GRADIENT": {
     "id": "warby:aubrey:VIOLET_GRADIENT",
@@ -817,11 +833,12 @@
     "product": "Aubrey",
     "lensName": "Violet Gradient",
     "frameColor": "Garnet Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:auggie:VIOLET_GRADIENT": {
     "id": "warby:auggie:VIOLET_GRADIENT",
@@ -829,11 +846,12 @@
     "product": "Auggie",
     "lensName": "Violet Gradient",
     "frameColor": "Cinnamon Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:augusta:VIOLET_GRADIENT": {
     "id": "warby:augusta:VIOLET_GRADIENT",
@@ -841,11 +859,12 @@
     "product": "Augusta",
     "lensName": "Violet Gradient",
     "frameColor": "Confetti Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:babs:VIOLET_GRADIENT": {
     "id": "warby:babs:VIOLET_GRADIENT",
@@ -853,11 +872,12 @@
     "product": "Babs",
     "lensName": "Violet Gradient",
     "frameColor": "Layered Bordeaux",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:baird:VIOLET_GRADIENT": {
     "id": "warby:baird:VIOLET_GRADIENT",
@@ -865,11 +885,12 @@
     "product": "Baird",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:balmer:VIOLET_GRADIENT": {
     "id": "warby:balmer:VIOLET_GRADIENT",
@@ -877,11 +898,12 @@
     "product": "Balmer",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:barkley-lbf:VIOLET_GRADIENT": {
     "id": "warby:barkley-lbf:VIOLET_GRADIENT",
@@ -889,11 +911,12 @@
     "product": "Barkley",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:beale:VIOLET_GRADIENT": {
     "id": "warby:beale:VIOLET_GRADIENT",
@@ -901,11 +924,12 @@
     "product": "Beale",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "moscot:18:2:matte-black": {
     "id": "moscot:18:2:matte-black",
@@ -925,11 +949,12 @@
     "product": "Aubrey",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:bette:VIOLET_GRADIENT": {
     "id": "warby:bette:VIOLET_GRADIENT",
@@ -937,11 +962,12 @@
     "product": "Bette",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:betz:VIOLET_GRADIENT": {
     "id": "warby:betz:VIOLET_GRADIENT",
@@ -949,11 +975,12 @@
     "product": "Betz",
     "lensName": "Violet Gradient",
     "frameColor": "Balsam Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:bix:VIOLET_GRADIENT": {
     "id": "warby:bix:VIOLET_GRADIENT",
@@ -961,11 +988,12 @@
     "product": "Bix",
     "lensName": "Violet Gradient",
     "frameColor": "Umber Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:blaise:VIOLET_GRADIENT": {
     "id": "warby:blaise:VIOLET_GRADIENT",
@@ -973,11 +1001,12 @@
     "product": "Blaise",
     "lensName": "Violet Gradient",
     "frameColor": "Palm Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:blount:VIOLET_GRADIENT": {
     "id": "warby:blount:VIOLET_GRADIENT",
@@ -985,11 +1014,12 @@
     "product": "Blount",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Silver",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:boaz:VIOLET_GRADIENT": {
     "id": "warby:boaz:VIOLET_GRADIENT",
@@ -997,11 +1027,12 @@
     "product": "Boaz",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:bodie:VIOLET_GRADIENT": {
     "id": "warby:bodie:VIOLET_GRADIENT",
@@ -1009,11 +1040,12 @@
     "product": "Bodie",
     "lensName": "Violet Gradient",
     "frameColor": "Rye Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:boggs:VIOLET_GRADIENT": {
     "id": "warby:boggs:VIOLET_GRADIENT",
@@ -1021,11 +1053,12 @@
     "product": "Boggs",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:bronte:VIOLET_GRADIENT": {
     "id": "warby:bronte:VIOLET_GRADIENT",
@@ -1033,11 +1066,12 @@
     "product": "Bronte",
     "lensName": "Violet Gradient",
     "frameColor": "Crystal Moss",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:butler:VIOLET_GRADIENT": {
     "id": "warby:butler:VIOLET_GRADIENT",
@@ -1045,11 +1079,12 @@
     "product": "Butler",
     "lensName": "Violet Gradient",
     "frameColor": "Butterscotch Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:callum:VIOLET_GRADIENT": {
     "id": "warby:callum:VIOLET_GRADIENT",
@@ -1057,11 +1092,12 @@
     "product": "Callum",
     "lensName": "Violet Gradient",
     "frameColor": "Balsam Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:carmel:VIOLET_GRADIENT": {
     "id": "warby:carmel:VIOLET_GRADIENT",
@@ -1069,11 +1105,12 @@
     "product": "Carmel",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:carson:VIOLET_GRADIENT": {
     "id": "warby:carson:VIOLET_GRADIENT",
@@ -1081,11 +1118,12 @@
     "product": "Carson",
     "lensName": "Violet Gradient",
     "frameColor": "Cinnamon Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:chava:VIOLET_GRADIENT": {
     "id": "warby:chava:VIOLET_GRADIENT",
@@ -1093,11 +1131,12 @@
     "product": "Chava",
     "lensName": "Violet Gradient",
     "frameColor": "Eucalyptus Crystal with Riesling",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:cooper:VIOLET_GRADIENT": {
     "id": "warby:cooper:VIOLET_GRADIENT",
@@ -1105,11 +1144,12 @@
     "product": "Cooper",
     "lensName": "Violet Gradient",
     "frameColor": "Black Oak Tortoise with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:cowley:VIOLET_GRADIENT": {
     "id": "warby:cowley:VIOLET_GRADIENT",
@@ -1117,11 +1157,12 @@
     "product": "Cowley",
     "lensName": "Violet Gradient",
     "frameColor": "Nori Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:downing:VIOLET_GRADIENT": {
     "id": "warby:downing:VIOLET_GRADIENT",
@@ -1129,11 +1170,12 @@
     "product": "Downing",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:drew:VIOLET_GRADIENT": {
     "id": "warby:drew:VIOLET_GRADIENT",
@@ -1141,11 +1183,12 @@
     "product": "Drew",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:durand-lbf:VIOLET_GRADIENT": {
     "id": "warby:durand-lbf:VIOLET_GRADIENT",
@@ -1153,11 +1196,12 @@
     "product": "Durand",
     "lensName": "Violet Gradient",
     "frameColor": "Rose Water",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:esme-lbf:VIOLET_GRADIENT": {
     "id": "warby:esme-lbf:VIOLET_GRADIENT",
@@ -1165,11 +1209,12 @@
     "product": "Esme",
     "lensName": "Violet Gradient",
     "frameColor": "Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:estrada:VIOLET_GRADIENT": {
     "id": "warby:estrada:VIOLET_GRADIENT",
@@ -1177,11 +1222,12 @@
     "product": "Estrada",
     "lensName": "Violet Gradient",
     "frameColor": "Prickly Pear Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:fletcher-lbf:VIOLET_GRADIENT": {
     "id": "warby:fletcher-lbf:VIOLET_GRADIENT",
@@ -1189,11 +1235,12 @@
     "product": "Fletcher",
     "lensName": "Violet Gradient",
     "frameColor": "Antique Shale Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:gael:VIOLET_GRADIENT": {
     "id": "warby:gael:VIOLET_GRADIENT",
@@ -1201,11 +1248,12 @@
     "product": "Gael",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:gemma:VIOLET_GRADIENT": {
     "id": "warby:gemma:VIOLET_GRADIENT",
@@ -1213,11 +1261,12 @@
     "product": "Gemma",
     "lensName": "Violet Gradient",
     "frameColor": "Adobe Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:gideon:VIOLET_GRADIENT": {
     "id": "warby:gideon:VIOLET_GRADIENT",
@@ -1225,11 +1274,12 @@
     "product": "Gideon",
     "lensName": "Violet Gradient",
     "frameColor": "Green Tea Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:gillian:VIOLET_GRADIENT": {
     "id": "warby:gillian:VIOLET_GRADIENT",
@@ -1237,11 +1287,12 @@
     "product": "Gillian",
     "lensName": "Violet Gradient",
     "frameColor": "Confetti Tortoise with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:gooding:VIOLET_GRADIENT": {
     "id": "warby:gooding:VIOLET_GRADIENT",
@@ -1249,11 +1300,12 @@
     "product": "Gooding",
     "lensName": "Violet Gradient",
     "frameColor": "Seaweed Crystal with Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:griffin:VIOLET_GRADIENT": {
     "id": "warby:griffin:VIOLET_GRADIENT",
@@ -1261,11 +1313,12 @@
     "product": "Griffin",
     "lensName": "Violet Gradient",
     "frameColor": "Burnt Honeycomb Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:harris:VIOLET_GRADIENT": {
     "id": "warby:harris:VIOLET_GRADIENT",
@@ -1273,11 +1326,12 @@
     "product": "Harris",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:harris-lbf:VIOLET_GRADIENT": {
     "id": "warby:harris-lbf:VIOLET_GRADIENT",
@@ -1285,11 +1339,12 @@
     "product": "Harris",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:haskell:VIOLET_GRADIENT": {
     "id": "warby:haskell:VIOLET_GRADIENT",
@@ -1297,11 +1352,12 @@
     "product": "Haskell",
     "lensName": "Violet Gradient",
     "frameColor": "Chestnut Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:hatcher:VIOLET_GRADIENT": {
     "id": "warby:hatcher:VIOLET_GRADIENT",
@@ -1309,11 +1365,12 @@
     "product": "Hatcher",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:hayes:VIOLET_GRADIENT": {
     "id": "warby:hayes:VIOLET_GRADIENT",
@@ -1321,11 +1378,12 @@
     "product": "Hayes",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:hayes-lbf:VIOLET_GRADIENT": {
     "id": "warby:hayes-lbf:VIOLET_GRADIENT",
@@ -1333,11 +1391,12 @@
     "product": "Hayes",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:hollis:VIOLET_GRADIENT": {
     "id": "warby:hollis:VIOLET_GRADIENT",
@@ -1345,11 +1404,12 @@
     "product": "Hollis",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:janelle:VIOLET_GRADIENT": {
     "id": "warby:janelle:VIOLET_GRADIENT",
@@ -1357,11 +1417,12 @@
     "product": "Janelle",
     "lensName": "Violet Gradient",
     "frameColor": "Praline",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:jeanette:VIOLET_GRADIENT": {
     "id": "warby:jeanette:VIOLET_GRADIENT",
@@ -1369,11 +1430,12 @@
     "product": "Jeanette",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:jenney:VIOLET_GRADIENT": {
     "id": "warby:jenney:VIOLET_GRADIENT",
@@ -1381,11 +1443,12 @@
     "product": "Jenney",
     "lensName": "Violet Gradient",
     "frameColor": "Amarena with Oak Barrel",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:kadri:VIOLET_GRADIENT": {
     "id": "warby:kadri:VIOLET_GRADIENT",
@@ -1393,11 +1456,12 @@
     "product": "Kadri",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:keiko:VIOLET_GRADIENT": {
     "id": "warby:keiko:VIOLET_GRADIENT",
@@ -1405,11 +1469,12 @@
     "product": "Keiko",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:kemi:VIOLET_GRADIENT": {
     "id": "warby:kemi:VIOLET_GRADIENT",
@@ -1417,11 +1482,12 @@
     "product": "Kemi",
     "lensName": "Violet Gradient",
     "frameColor": "Licorice Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:kian:VIOLET_GRADIENT": {
     "id": "warby:kian:VIOLET_GRADIENT",
@@ -1429,11 +1495,12 @@
     "product": "Kian",
     "lensName": "Violet Gradient",
     "frameColor": "Black Oak Tortoise with Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:kiran:VIOLET_GRADIENT": {
     "id": "warby:kiran:VIOLET_GRADIENT",
@@ -1441,11 +1508,12 @@
     "product": "Kiran",
     "lensName": "Violet Gradient",
     "frameColor": "English Oak",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:latrell:VIOLET_GRADIENT": {
     "id": "warby:latrell:VIOLET_GRADIENT",
@@ -1453,11 +1521,12 @@
     "product": "Latrell",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:laurel:VIOLET_GRADIENT": {
     "id": "warby:laurel:VIOLET_GRADIENT",
@@ -1465,11 +1534,12 @@
     "product": "Laurel",
     "lensName": "Violet Gradient",
     "frameColor": "Elderflower Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:liana:VIOLET_GRADIENT": {
     "id": "warby:liana:VIOLET_GRADIENT",
@@ -1477,11 +1547,12 @@
     "product": "Liana",
     "lensName": "Violet Gradient",
     "frameColor": "Stone Blue",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:lottie:VIOLET_GRADIENT": {
     "id": "warby:lottie:VIOLET_GRADIENT",
@@ -1489,11 +1560,12 @@
     "product": "Lottie",
     "lensName": "Violet Gradient",
     "frameColor": "Ganache",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:lucille:VIOLET_GRADIENT": {
     "id": "warby:lucille:VIOLET_GRADIENT",
@@ -1501,11 +1573,12 @@
     "product": "Lucille",
     "lensName": "Violet Gradient",
     "frameColor": "Ristretto Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:maren:VIOLET_GRADIENT": {
     "id": "warby:maren:VIOLET_GRADIENT",
@@ -1513,11 +1586,12 @@
     "product": "Maren",
     "lensName": "Violet Gradient",
     "frameColor": "Violet Magnolia with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:masha:VIOLET_GRADIENT": {
     "id": "warby:masha:VIOLET_GRADIENT",
@@ -1525,11 +1599,12 @@
     "product": "Masha",
     "lensName": "Violet Gradient",
     "frameColor": "Black Currant Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:merrick:VIOLET_GRADIENT": {
     "id": "warby:merrick:VIOLET_GRADIENT",
@@ -1537,11 +1612,12 @@
     "product": "Merrick",
     "lensName": "Violet Gradient",
     "frameColor": "Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:mimi:VIOLET_GRADIENT": {
     "id": "warby:mimi:VIOLET_GRADIENT",
@@ -1549,11 +1625,12 @@
     "product": "Mimi",
     "lensName": "Violet Gradient",
     "frameColor": "Ristretto Tortoise with Marbled Opal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:nancy:VIOLET_GRADIENT": {
     "id": "warby:nancy:VIOLET_GRADIENT",
@@ -1561,11 +1638,12 @@
     "product": "Nancy",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:nancy-lbf:VIOLET_GRADIENT": {
     "id": "warby:nancy-lbf:VIOLET_GRADIENT",
@@ -1573,11 +1651,12 @@
     "product": "Nancy",
     "lensName": "Violet Gradient",
     "frameColor": "Cognac Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:natasha:VIOLET_GRADIENT": {
     "id": "warby:natasha:VIOLET_GRADIENT",
@@ -1585,11 +1664,12 @@
     "product": "Natasha",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise with Riesling",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:nemsey:VIOLET_GRADIENT": {
     "id": "warby:nemsey:VIOLET_GRADIENT",
@@ -1597,11 +1677,12 @@
     "product": "Nemsey",
     "lensName": "Violet Gradient",
     "frameColor": "Cattail Tortoise Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:newman:VIOLET_GRADIENT": {
     "id": "warby:newman:VIOLET_GRADIENT",
@@ -1609,11 +1690,12 @@
     "product": "Newman",
     "lensName": "Violet Gradient",
     "frameColor": "Shoreline",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:nida:VIOLET_GRADIENT": {
     "id": "warby:nida:VIOLET_GRADIENT",
@@ -1621,11 +1703,12 @@
     "product": "Nida",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black with Stone Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:omar:VIOLET_GRADIENT": {
     "id": "warby:omar:VIOLET_GRADIENT",
@@ -1633,11 +1716,12 @@
     "product": "Omar",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:percey-lbf:VIOLET_GRADIENT": {
     "id": "warby:percey-lbf:VIOLET_GRADIENT",
@@ -1645,11 +1729,12 @@
     "product": "Percey",
     "lensName": "Violet Gradient",
     "frameColor": "Striped Sassafras",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:perkins:VIOLET_GRADIENT": {
     "id": "warby:perkins:VIOLET_GRADIENT",
@@ -1657,11 +1742,12 @@
     "product": "Perkins",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:perkins-lbf:VIOLET_GRADIENT": {
     "id": "warby:perkins-lbf:VIOLET_GRADIENT",
@@ -1669,11 +1755,12 @@
     "product": "Perkins",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rachel:VIOLET_GRADIENT": {
     "id": "warby:rachel:VIOLET_GRADIENT",
@@ -1681,11 +1768,12 @@
     "product": "Rachel",
     "lensName": "Violet Gradient",
     "frameColor": "Mesquite Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rafael:VIOLET_GRADIENT": {
     "id": "warby:rafael:VIOLET_GRADIENT",
@@ -1693,11 +1781,12 @@
     "product": "Rafael",
     "lensName": "Violet Gradient",
     "frameColor": "Brushed Ink",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rhea:VIOLET_GRADIENT": {
     "id": "warby:rhea:VIOLET_GRADIENT",
@@ -1705,11 +1794,12 @@
     "product": "Rhea",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rhea-lbf:VIOLET_GRADIENT": {
     "id": "warby:rhea-lbf:VIOLET_GRADIENT",
@@ -1717,11 +1807,12 @@
     "product": "Rhea",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:richie:VIOLET_GRADIENT": {
     "id": "warby:richie:VIOLET_GRADIENT",
@@ -1729,11 +1820,12 @@
     "product": "Richie",
     "lensName": "Violet Gradient",
     "frameColor": "Raven Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:roosevelt:VIOLET_GRADIENT": {
     "id": "warby:roosevelt:VIOLET_GRADIENT",
@@ -1741,11 +1833,12 @@
     "product": "Roosevelt",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rosie:VIOLET_GRADIENT": {
     "id": "warby:rosie:VIOLET_GRADIENT",
@@ -1753,11 +1846,12 @@
     "product": "Rosie",
     "lensName": "Violet Gradient",
     "frameColor": "Jet Black",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:rustin:VIOLET_GRADIENT": {
     "id": "warby:rustin:VIOLET_GRADIENT",
@@ -1765,11 +1859,12 @@
     "product": "Rustin",
     "lensName": "Violet Gradient",
     "frameColor": "Olive with Riesling",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:samira:VIOLET_GRADIENT": {
     "id": "warby:samira:VIOLET_GRADIENT",
@@ -1777,11 +1872,12 @@
     "product": "Samira",
     "lensName": "Violet Gradient",
     "frameColor": "Indigo Rose",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:sonia:VIOLET_GRADIENT": {
     "id": "warby:sonia:VIOLET_GRADIENT",
@@ -1789,11 +1885,12 @@
     "product": "Sonia",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:sutton:VIOLET_GRADIENT": {
     "id": "warby:sutton:VIOLET_GRADIENT",
@@ -1801,11 +1898,12 @@
     "product": "Sutton",
     "lensName": "Violet Gradient",
     "frameColor": "Azure Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:sutton-lbf:VIOLET_GRADIENT": {
     "id": "warby:sutton-lbf:VIOLET_GRADIENT",
@@ -1813,11 +1911,12 @@
     "product": "Sutton",
     "lensName": "Violet Gradient",
     "frameColor": "Walnut Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:sydney:VIOLET_GRADIENT": {
     "id": "warby:sydney:VIOLET_GRADIENT",
@@ -1825,11 +1924,12 @@
     "product": "Sydney",
     "lensName": "Violet Gradient",
     "frameColor": "Chai Crystal Fade",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:tacha:VIOLET_GRADIENT": {
     "id": "warby:tacha:VIOLET_GRADIENT",
@@ -1837,11 +1937,12 @@
     "product": "Tacha",
     "lensName": "Violet Gradient",
     "frameColor": "Beach Rose Matte",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:tal:VIOLET_GRADIENT": {
     "id": "warby:tal:VIOLET_GRADIENT",
@@ -1849,11 +1950,12 @@
     "product": "Tal",
     "lensName": "Violet Gradient",
     "frameColor": "Maritime Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:tilley:VIOLET_GRADIENT": {
     "id": "warby:tilley:VIOLET_GRADIENT",
@@ -1861,11 +1963,12 @@
     "product": "Tilley",
     "lensName": "Violet Gradient",
     "frameColor": "Smoky Pearl Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:tobias:VIOLET_GRADIENT": {
     "id": "warby:tobias:VIOLET_GRADIENT",
@@ -1873,11 +1976,12 @@
     "product": "Tobias",
     "lensName": "Violet Gradient",
     "frameColor": "Laguna Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:toddy:VIOLET_GRADIENT": {
     "id": "warby:toddy:VIOLET_GRADIENT",
@@ -1885,11 +1989,12 @@
     "product": "Toddy",
     "lensName": "Violet Gradient",
     "frameColor": "Azure Crystal with Oak Barrel",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:toni:VIOLET_GRADIENT": {
     "id": "warby:toni:VIOLET_GRADIENT",
@@ -1897,11 +2002,12 @@
     "product": "Toni",
     "lensName": "Violet Gradient",
     "frameColor": "Cider Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:topper:VIOLET_GRADIENT": {
     "id": "warby:topper:VIOLET_GRADIENT",
@@ -1909,11 +2015,12 @@
     "product": "Topper",
     "lensName": "Violet Gradient",
     "frameColor": "Black Matte Eclipse",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:tova:VIOLET_GRADIENT": {
     "id": "warby:tova:VIOLET_GRADIENT",
@@ -1921,11 +2028,12 @@
     "product": "Tova",
     "lensName": "Violet Gradient",
     "frameColor": "Cola Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:vela:VIOLET_GRADIENT": {
     "id": "warby:vela:VIOLET_GRADIENT",
@@ -1933,11 +2041,12 @@
     "product": "Vela",
     "lensName": "Violet Gradient",
     "frameColor": "Aventurine Tortoise with Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:vilma:VIOLET_GRADIENT": {
     "id": "warby:vilma:VIOLET_GRADIENT",
@@ -1945,11 +2054,12 @@
     "product": "Vilma",
     "lensName": "Violet Gradient",
     "frameColor": "Yuzu Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:waller:VIOLET_GRADIENT": {
     "id": "warby:waller:VIOLET_GRADIENT",
@@ -1957,11 +2067,12 @@
     "product": "Waller",
     "lensName": "Violet Gradient",
     "frameColor": "Apricot",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:willetta:VIOLET_GRADIENT": {
     "id": "warby:willetta:VIOLET_GRADIENT",
@@ -1969,11 +2080,12 @@
     "product": "Willetta",
     "lensName": "Violet Gradient",
     "frameColor": "Beach Glass With Polished Gold",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:wright:VIOLET_GRADIENT": {
     "id": "warby:wright:VIOLET_GRADIENT",
@@ -1981,11 +2093,12 @@
     "product": "Wright",
     "lensName": "Violet Gradient",
     "frameColor": "Nutmeg Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:wright-lbf:VIOLET_GRADIENT": {
     "id": "warby:wright-lbf:VIOLET_GRADIENT",
@@ -1993,11 +2106,12 @@
     "product": "Wright",
     "lensName": "Violet Gradient",
     "frameColor": "Walnut Tortoise",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "warby:zoya:VIOLET_GRADIENT": {
     "id": "warby:zoya:VIOLET_GRADIENT",
@@ -2005,11 +2119,12 @@
     "product": "Zoya",
     "lensName": "Violet Gradient",
     "frameColor": "Emerald Crystal",
-    "lensHue": "violet",
+    "lensHue": "rose",
     "cat": "gradient",
-    "hueHex": "#7560a8",
+    "hueHex": "#9b5265",
     "hueSource": "reviewed-correction",
-    "updatedAt": "2026-06-28T23:21:56Z"
+    "updatedAt": "2026-06-28T23:58:16Z",
+    "note": "Warby product name says Violet but actual lens appears rose/red in images"
   },
   "moscot:1:5:brown-ash": {
     "id": "moscot:1:5:brown-ash",
